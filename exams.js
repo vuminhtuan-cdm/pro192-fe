@@ -2103,7 +2103,7 @@ var EXAMS_DATA = [
     "id": "exam_2",
     "code": "PRO192_SP26_B5_FE_RE",
     "title": "Đề 2: Đề Thi FE - PRO192 - SP26 - B5 - FE - RE (Đề Thi Ảnh)",
-    "shortTitle": "Đề 2 (SP26 B5 Ảnh)",
+    "shortTitle": "Đề 2 (SP26 B5-RE Ảnh)",
     "type": "image",
     "filename": "PRO192_SP26_B5_FE_RE.json",
     "questions": [
@@ -2111,7 +2111,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_54cfa0ca-51d6-4b6b-81aa-876c6995e2d3",
         "raw_id": "54cfa0ca-51d6-4b6b-81aa-876c6995e2d3",
         "order_num": 1,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2152,7 +2152,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_5a528e54-aa13-4703-8cab-abf3f9272f4f",
         "raw_id": "5a528e54-aa13-4703-8cab-abf3f9272f4f",
         "order_num": 2,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2193,7 +2193,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_b3c639da-d86b-41de-be33-2924fa427d31",
         "raw_id": "b3c639da-d86b-41de-be33-2924fa427d31",
         "order_num": 3,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2234,7 +2234,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3949ad5c-1a20-4a3e-b6f8-a1224e35b61a",
         "raw_id": "3949ad5c-1a20-4a3e-b6f8-a1224e35b61a",
         "order_num": 4,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2275,7 +2275,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_de5278ea-6510-43b8-aaa4-707b066399d7",
         "raw_id": "de5278ea-6510-43b8-aaa4-707b066399d7",
         "order_num": 5,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2316,7 +2316,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_7be6edc7-4c8a-42f9-aade-10a6d7bbf91b",
         "raw_id": "7be6edc7-4c8a-42f9-aade-10a6d7bbf91b",
         "order_num": 6,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2357,7 +2357,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_bebcb056-cfd0-4547-b45f-075072088e14",
         "raw_id": "bebcb056-cfd0-4547-b45f-075072088e14",
         "order_num": 7,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2398,7 +2398,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_5625c624-a943-444c-b094-204b842fe878",
         "raw_id": "5625c624-a943-444c-b094-204b842fe878",
         "order_num": 8,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2439,7 +2439,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_089ee29b-5f48-4f11-ab09-6499f9808b2d",
         "raw_id": "089ee29b-5f48-4f11-ab09-6499f9808b2d",
         "order_num": 9,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2480,7 +2480,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3739a5ed-dcd8-4e30-85f8-f3b28600fc0d",
         "raw_id": "3739a5ed-dcd8-4e30-85f8-f3b28600fc0d",
         "order_num": 10,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2521,7 +2521,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_d38689c9-1449-42f0-8071-33a4f872e793",
         "raw_id": "d38689c9-1449-42f0-8071-33a4f872e793",
         "order_num": 11,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2562,7 +2562,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_aaf91836-bf34-4d3b-a7ce-2fe675f290f1",
         "raw_id": "aaf91836-bf34-4d3b-a7ce-2fe675f290f1",
         "order_num": 12,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2603,7 +2603,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_64ed75de-e3bd-445b-a418-6f55359e1e46",
         "raw_id": "64ed75de-e3bd-445b-a418-6f55359e1e46",
         "order_num": 13,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2644,7 +2644,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_631102e5-e9c4-45cd-9cda-d2a71fa7aa18",
         "raw_id": "631102e5-e9c4-45cd-9cda-d2a71fa7aa18",
         "order_num": 14,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2685,7 +2685,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_d3cf42ad-8056-45e1-adc3-e12699d1fc80",
         "raw_id": "d3cf42ad-8056-45e1-adc3-e12699d1fc80",
         "order_num": 15,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2726,7 +2726,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_d60b20c6-86a0-4050-9ab4-061ea4da3abc",
         "raw_id": "d60b20c6-86a0-4050-9ab4-061ea4da3abc",
         "order_num": 16,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2767,7 +2767,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_a95cb15b-dff5-40a9-9ed3-510418465d1c",
         "raw_id": "a95cb15b-dff5-40a9-9ed3-510418465d1c",
         "order_num": 17,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2808,7 +2808,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_74c8ebcc-5a19-4ee9-80d0-40d123d08aec",
         "raw_id": "74c8ebcc-5a19-4ee9-80d0-40d123d08aec",
         "order_num": 18,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2849,7 +2849,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_2d7305f1-6e99-4327-8382-5d3fbc3d3fe5",
         "raw_id": "2d7305f1-6e99-4327-8382-5d3fbc3d3fe5",
         "order_num": 19,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2890,7 +2890,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_12cdac51-92dc-49bb-8868-1f13fc2dbfb3",
         "raw_id": "12cdac51-92dc-49bb-8868-1f13fc2dbfb3",
         "order_num": 20,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2931,7 +2931,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_b4318b62-e4ad-460f-ad2b-c09c68366616",
         "raw_id": "b4318b62-e4ad-460f-ad2b-c09c68366616",
         "order_num": 21,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -2972,7 +2972,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_85e23f58-3861-4491-a2ca-bd04c5037b39",
         "raw_id": "85e23f58-3861-4491-a2ca-bd04c5037b39",
         "order_num": 22,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3013,7 +3013,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3c90700d-e9c9-4454-a8e3-5a0ca1cb6a8d",
         "raw_id": "3c90700d-e9c9-4454-a8e3-5a0ca1cb6a8d",
         "order_num": 23,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3054,7 +3054,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_815692aa-18ca-446f-8e1c-fd12406866c4",
         "raw_id": "815692aa-18ca-446f-8e1c-fd12406866c4",
         "order_num": 24,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3095,7 +3095,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_ce2fdc46-d616-4d9b-984c-1f5b39d4d1cd",
         "raw_id": "ce2fdc46-d616-4d9b-984c-1f5b39d4d1cd",
         "order_num": 25,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3136,7 +3136,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_384fa442-29b8-44c4-8939-b54c53c401c1",
         "raw_id": "384fa442-29b8-44c4-8939-b54c53c401c1",
         "order_num": 26,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3177,7 +3177,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_04f9de45-2a15-4f27-80e0-11102cd9d32c",
         "raw_id": "04f9de45-2a15-4f27-80e0-11102cd9d32c",
         "order_num": 27,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3218,7 +3218,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_d1d74535-96fe-4474-8cf4-06d8a9b0a819",
         "raw_id": "d1d74535-96fe-4474-8cf4-06d8a9b0a819",
         "order_num": 28,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3259,7 +3259,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_e90cc424-99f8-40a1-85b8-fe08d5db99b8",
         "raw_id": "e90cc424-99f8-40a1-85b8-fe08d5db99b8",
         "order_num": 29,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3300,7 +3300,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_efd12c9a-a6cc-4883-a1e0-3017b7e5140c",
         "raw_id": "efd12c9a-a6cc-4883-a1e0-3017b7e5140c",
         "order_num": 30,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3341,7 +3341,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_01cb45c3-7538-4f49-8867-990c019c8edf",
         "raw_id": "01cb45c3-7538-4f49-8867-990c019c8edf",
         "order_num": 31,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3382,7 +3382,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_97bba6ce-9935-4dfb-9914-0f23fd085df1",
         "raw_id": "97bba6ce-9935-4dfb-9914-0f23fd085df1",
         "order_num": 32,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3423,7 +3423,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3ed57e25-9de4-4a01-9118-5faa27ea95d4",
         "raw_id": "3ed57e25-9de4-4a01-9118-5faa27ea95d4",
         "order_num": 33,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3464,7 +3464,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_9ffa251f-7d99-409b-ba6d-3b045620a2f2",
         "raw_id": "9ffa251f-7d99-409b-ba6d-3b045620a2f2",
         "order_num": 34,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3505,7 +3505,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_c20bc1c0-2978-418b-bcc1-f3778b36f872",
         "raw_id": "c20bc1c0-2978-418b-bcc1-f3778b36f872",
         "order_num": 35,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3546,7 +3546,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_59ecee15-0427-4cff-92c8-c0cb71368555",
         "raw_id": "59ecee15-0427-4cff-92c8-c0cb71368555",
         "order_num": 36,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3587,7 +3587,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_c99c86f2-009c-4a29-9eb9-7d4188a3d8f9",
         "raw_id": "c99c86f2-009c-4a29-9eb9-7d4188a3d8f9",
         "order_num": 37,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3628,7 +3628,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_978f7741-f8e4-47f1-898e-d578a9ebb827",
         "raw_id": "978f7741-f8e4-47f1-898e-d578a9ebb827",
         "order_num": 38,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3669,7 +3669,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_23410794-755f-42ad-9125-b03ec197419d",
         "raw_id": "23410794-755f-42ad-9125-b03ec197419d",
         "order_num": 39,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3710,7 +3710,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_420250c6-d6f8-4df3-97d2-51d9b71af5ad",
         "raw_id": "420250c6-d6f8-4df3-97d2-51d9b71af5ad",
         "order_num": 40,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3751,7 +3751,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_5fbbbf57-2b4d-4e07-a236-6841d6057409",
         "raw_id": "5fbbbf57-2b4d-4e07-a236-6841d6057409",
         "order_num": 41,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3792,7 +3792,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_49e379c3-7a5b-4f0a-b4b4-726a0da57bda",
         "raw_id": "49e379c3-7a5b-4f0a-b4b4-726a0da57bda",
         "order_num": 42,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3839,7 +3839,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_7d921874-e05f-4158-b1bf-a20807a4342a",
         "raw_id": "7d921874-e05f-4158-b1bf-a20807a4342a",
         "order_num": 43,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3880,7 +3880,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_94ae126a-04b8-4c37-b051-a5b6a3d8bcbc",
         "raw_id": "94ae126a-04b8-4c37-b051-a5b6a3d8bcbc",
         "order_num": 44,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3921,7 +3921,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_4c3e11af-8547-4f71-b72f-62bf5a657f16",
         "raw_id": "4c3e11af-8547-4f71-b72f-62bf5a657f16",
         "order_num": 45,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -3962,7 +3962,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3b6806d3-2cca-4c09-9168-768cbffab06c",
         "raw_id": "3b6806d3-2cca-4c09-9168-768cbffab06c",
         "order_num": 46,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -4003,7 +4003,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_8fc6c501-d0b5-4382-bc88-38e32dce619e",
         "raw_id": "8fc6c501-d0b5-4382-bc88-38e32dce619e",
         "order_num": 47,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -4044,7 +4044,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_6e507370-aca0-4b17-8967-55cf9faed9c0",
         "raw_id": "6e507370-aca0-4b17-8967-55cf9faed9c0",
         "order_num": 48,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -4085,7 +4085,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_2af7c026-0ab5-4076-837f-06916b185d6b",
         "raw_id": "2af7c026-0ab5-4076-837f-06916b185d6b",
         "order_num": 49,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -4126,7 +4126,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_6254bf3a-cc46-4820-ba74-547da7480241",
         "raw_id": "6254bf3a-cc46-4820-ba74-547da7480241",
         "order_num": 50,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -6254,10 +6254,2078 @@ var EXAMS_DATA = [
     "total": 50
   },
   {
+    "id": "exam_4",
+    "code": "PRO192_SP26_B5_FE",
+    "title": "Đề 4: Đề Thi FE - PRO192 - SP26 - B5 - FE (Đề Thi Ảnh)",
+    "shortTitle": "Đề 4 (SP26 B5-FE Ảnh)",
+    "type": "image",
+    "filename": "PRO192_SP26_B5_FE.json",
+    "questions": [
+      {
+        "id": "PRO192_SP26_B5_FE_9274f881-caf6-48e2-a8ed-f7ba85fa0489",
+        "raw_id": "9274f881-caf6-48e2-a8ed-f7ba85fa0489",
+        "order_num": 1,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q01.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "879ea1f3-65b0-4539-b2bb-88bae3e7b552",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dbc80753-e1e5-44a9-82cf-896871393905",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a0ac9ed9-b0b3-49e1-b250-3959fcad3ae2",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "85da2f31-0933-4e3b-b5d1-ca864fcaca9c",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_7e4c5fd8-e8df-47b3-a770-fc9454017c95",
+        "raw_id": "7e4c5fd8-e8df-47b3-a770-fc9454017c95",
+        "order_num": 2,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q02.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b04473a6-ff31-45d7-af57-ae20f8ae6869",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "e71bea8e-5e4d-4a27-9bff-e0b95940689d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "97838473-ffb3-494d-be6b-9be0432460e5",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0105bd9c-d264-4d5b-a703-410513d02d6b",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_8bc14a55-a059-46fc-b189-4c52486e131b",
+        "raw_id": "8bc14a55-a059-46fc-b189-4c52486e131b",
+        "order_num": 3,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q03.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "782397cd-1f41-4128-84a7-d36c713e55f9",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "e2a1261a-3332-42d1-80d9-67b16d95424d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "59355f85-2103-485f-a913-1d7c1ed3f6c5",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5dbf7d24-03a7-4cf3-8154-b12f93683c3f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_ebb55159-49a1-4b03-adc5-a8b1c1454274",
+        "raw_id": "ebb55159-49a1-4b03-adc5-a8b1c1454274",
+        "order_num": 4,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q04.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "4484231e-f8cc-4265-b48b-1e3c637bc5d1",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "180fab5b-8ab5-4ab6-a722-fbca92c913cb",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7c0d686a-7554-4f7e-820b-ba6185e5e3bc",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "4b666094-51fc-4d64-9388-5872ea6619ab",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_b5ad4e37-e413-46c3-9237-c2bf3fdee140",
+        "raw_id": "b5ad4e37-e413-46c3-9237-c2bf3fdee140",
+        "order_num": 5,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q05.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5ecd2182-00da-4317-82f2-54c8aa00036f",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "d8a2593a-29cc-4af4-8add-2ffa01fa9c4d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d29c624f-4e95-4f11-b170-c939a80cdfa1",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6d98f4f2-ef9a-4301-ae96-e67f3a9150e5",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_13a56b1f-c8f9-4fb0-94ca-bca3ecf1b820",
+        "raw_id": "13a56b1f-c8f9-4fb0-94ca-bca3ecf1b820",
+        "order_num": 6,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q06.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0938b469-528b-4a98-bd2b-c6a4f3cbf47e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ea447650-9a96-48d6-ba44-1eaa32187835",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "808bc3fd-9ae0-4747-b39c-6d31e583e6db",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c873ef4b-286a-4744-9f1e-5d88b676e43c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5cc8795d-f638-41a3-9c6d-17675d644277",
+        "raw_id": "5cc8795d-f638-41a3-9c6d-17675d644277",
+        "order_num": 7,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q07.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "76809808-cdb2-49d0-9125-a37dabee147c",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3f304eb3-69f0-4977-aa35-7657fb1b0492",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "35d445cc-6edd-4f6a-9590-067c51308906",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a10ec645-31a0-40d7-a5e0-72b9b61205dd",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_8c6bbd77-cd41-4dbb-aab0-0844cbc00077",
+        "raw_id": "8c6bbd77-cd41-4dbb-aab0-0844cbc00077",
+        "order_num": 8,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q08.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "417b1fd1-abb2-4d2c-a158-039fa6076fb9",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "4dfd9fea-cdcc-4d4d-a0a4-77542bbe4213",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a97a5391-7140-40d8-9f45-4d0b1d7c3746",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ed2e3a01-892d-4c02-b535-8461c743831f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_45d9c83e-71ec-4c94-880d-47cc08b6ff51",
+        "raw_id": "45d9c83e-71ec-4c94-880d-47cc08b6ff51",
+        "order_num": 9,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q09.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0c1b84f2-c126-47f3-b56a-9862cd179055",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ecc31127-2bab-4f70-aca0-9db40a471da3",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d738b5b2-4004-4b5d-a744-fe165c1678e7",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "280f27ef-e434-421f-801f-2af72e24c483",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_510e9bfe-cdfa-4ec4-90d3-351b2a5fea95",
+        "raw_id": "510e9bfe-cdfa-4ec4-90d3-351b2a5fea95",
+        "order_num": 10,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q10.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "70b13bdd-74f0-4878-a72c-ef97008e8f2d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "87ccd450-2990-415b-b4d0-ad94b588ab3c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dfe56ddd-4144-49e4-abc4-8e1dd4afb088",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "76810fb0-ad5c-4c5b-b247-c217633ed762",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_0ac88a7b-ea5c-465b-b006-69cd879f1919",
+        "raw_id": "0ac88a7b-ea5c-465b-b006-69cd879f1919",
+        "order_num": 11,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q11.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "048236bc-0664-49dc-bec7-f35e9f222ceb",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "137b1634-7667-4251-b1ec-73c27077421e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8f452414-91dc-4d93-b8f8-acb3ea77d71d",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "506afe35-31d6-483c-a860-cdfd7f8468c4",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_3f74c95b-78d6-410d-9c3c-47111c502e3a",
+        "raw_id": "3f74c95b-78d6-410d-9c3c-47111c502e3a",
+        "order_num": 12,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q12.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7737bf48-9d9a-46c7-b87b-09f6733bbdbd",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "319955d5-b4d7-408e-9520-c4dd2d3da32b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "82e749aa-cb93-4228-aee5-ac32fb1efdc1",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e5268e9c-6603-4351-a552-7847af0ef85f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_c7f218df-34de-4db0-af9c-aa1217737015",
+        "raw_id": "c7f218df-34de-4db0-af9c-aa1217737015",
+        "order_num": 13,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q13.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "f2ee7176-08da-4cc9-a753-c88d702af594",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "0fe96dbb-c41b-4e0a-ba2c-820c7c8bcf17",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ac388414-fd21-4a57-bdf0-aacf0fa69472",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b574e8dd-c030-4dab-8f3c-26f329127d0a",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5769e6ea-b160-4bf0-959a-f30fa39c5064",
+        "raw_id": "5769e6ea-b160-4bf0-959a-f30fa39c5064",
+        "order_num": 14,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q14.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "334f28a4-8418-42d3-ae4f-7327d76b30af",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "51e67cef-3c44-42eb-901a-6710588bef0d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "51632829-81ec-4dbe-a516-b4d29a8759f3",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f37697a2-ff03-43d9-b54f-5c10113d733a",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5f52b3db-0231-4881-948d-6877e984c1f5",
+        "raw_id": "5f52b3db-0231-4881-948d-6877e984c1f5",
+        "order_num": 15,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q15.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d861bbfd-19a1-4eb8-b046-e6035eb246bf",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "12b3b86e-69c1-4786-992f-401809212dd6",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2e36b784-1d93-44b3-9cb0-0549db2a1278",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "321b28b9-ce02-4caa-b9e3-182a37723923",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5cbd172a-7717-4394-909e-5e4036d31118",
+        "raw_id": "5cbd172a-7717-4394-909e-5e4036d31118",
+        "order_num": 16,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q16.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "30f3fc59-d280-43e6-a304-911b2bebd671",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "db91cafb-11ad-49ae-b3c0-c724f1e01218",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c6e57704-3912-4f68-8b00-7a2dba45c639",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "202e8788-6705-4031-8fd6-8c96ccaf661e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_b66c030b-4da3-494e-be29-fbca48a9eddd",
+        "raw_id": "b66c030b-4da3-494e-be29-fbca48a9eddd",
+        "order_num": 17,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q17.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "bc9bd685-b828-475c-9f5c-62379dd4bb0d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "37a96f9e-cc7d-4bd4-871e-cf22dbca6557",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "18657785-1461-411e-954c-2146906a4e0d",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "eaad5cc4-1a62-4999-888f-19fc59bcc17c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_2c15e4ec-34d7-430f-b9ba-711c9ae5b364",
+        "raw_id": "2c15e4ec-34d7-430f-b9ba-711c9ae5b364",
+        "order_num": 18,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q18.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b048b1ec-dbdc-4a3c-8c6e-52e42a96e5e5",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "70c99af2-c99a-4797-a78f-a9ff5333ee3b",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "d6d2c317-3815-48ff-a828-e22d6f0c8ab0",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "839ac4e1-c406-4f94-b5cc-7c6a28f45fe5",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_a34c859a-9267-4f09-8707-0c9b93bd931f",
+        "raw_id": "a34c859a-9267-4f09-8707-0c9b93bd931f",
+        "order_num": 19,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q19.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "26d960e5-edb0-4623-a50d-ac989eda869b",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3f8e7afc-0d72-4b83-ad0b-b301a6aef9c3",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dab2f242-ecfb-4e99-a7d6-75a9e5901f00",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7a7ed88f-e8a4-4d21-8bb2-260e1f1b1c29",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_850c3896-35ae-4eab-a165-42c5a300c21c",
+        "raw_id": "850c3896-35ae-4eab-a165-42c5a300c21c",
+        "order_num": 20,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q20.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "6bd51664-ef3a-46a2-8bdb-e61f94d9c296",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "75db46e1-2372-4b31-9731-2b8122164119",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5c62aeba-72ce-4248-9a94-a22cde097f14",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "715b15c7-1e75-4ece-8682-175ddbd7f572",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_57a8c9cc-237c-41ec-835c-bdcca1f21216",
+        "raw_id": "57a8c9cc-237c-41ec-835c-bdcca1f21216",
+        "order_num": 21,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q21.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b2e40baf-806f-4fe9-bbed-5addc59d6e88",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "f3a8174e-edda-4362-930a-d19a1a7c52f6",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c4c92296-2b32-4072-b983-0180821d8603",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1a5df6d3-935b-4a4c-84a4-c6a37c2baa09",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_dcc48b9d-69d5-46be-96b8-9c9e57e28a53",
+        "raw_id": "dcc48b9d-69d5-46be-96b8-9c9e57e28a53",
+        "order_num": 22,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q22.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "a6648090-459f-475c-b92c-12f3f37506dc",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "dc0383bd-00ce-4b9c-b6b2-646579c8aca2",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2bf4b048-7fc5-4190-af69-75c05a4eed98",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "34ed234a-4b8c-4116-a25f-6e90ee389449",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_f8819cb6-f81c-4cb4-88bf-e69490689c24",
+        "raw_id": "f8819cb6-f81c-4cb4-88bf-e69490689c24",
+        "order_num": 23,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q23.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c4ffb155-e222-4e09-9132-9289732375d1",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9866306a-a5ea-4e35-bace-8eceb95bc63a",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "87d53490-b2fe-46c9-b82e-6f67925dc273",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f21e69c4-c069-45b6-adbb-79a3c130f338",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_9043a2a1-0876-432a-8083-416fd9bc6a36",
+        "raw_id": "9043a2a1-0876-432a-8083-416fd9bc6a36",
+        "order_num": 24,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q24.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "860c517c-915d-4160-a8ff-ef82d34166a2",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a8e426a2-904c-4688-81f4-7edc3d6c250c",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "eb618350-372a-47f7-8b0e-5230f8210abf",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ea35fb80-5444-4193-8b2a-03fc5f39d561",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_00e905c0-1afd-42b6-9acd-61cdea312465",
+        "raw_id": "00e905c0-1afd-42b6-9acd-61cdea312465",
+        "order_num": 25,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q25.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "f470de53-a945-40dc-b423-c70673adad5e",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0dbbfc43-9d97-469e-94aa-4d13a74dd045",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2c4a8b2d-8ef3-47ff-9135-4c31456acb61",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1facbb34-ae63-4563-a696-a554828ca5db",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_65f8214b-923f-4b30-bba3-a95713caa970",
+        "raw_id": "65f8214b-923f-4b30-bba3-a95713caa970",
+        "order_num": 26,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q26.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "4b94f34c-f47e-4c16-993c-d77d60a19bba",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3f5d61e0-1752-4a98-bd7f-98651a6a4626",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "17117996-ef32-4cdd-9f7d-22117f360172",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "92c94986-10df-4bfd-a35a-f6094595d150",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5751f630-7a90-4c7e-8ef3-d1373fbc7a4b",
+        "raw_id": "5751f630-7a90-4c7e-8ef3-d1373fbc7a4b",
+        "order_num": 27,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q27.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "a96660e8-b6a6-49aa-9621-6631a41fee37",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "010f54f9-7b13-4e57-9dd5-286563d1bd9c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "448d5d1b-6bb7-4767-9567-e4f249964145",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9a765172-04ff-4dad-a316-7072b391d5e6",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_41325d00-517c-43da-8b77-46c33e438cc6",
+        "raw_id": "41325d00-517c-43da-8b77-46c33e438cc6",
+        "order_num": 28,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q28.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "1b81dc82-cd5f-48cf-8c16-827f547c5aa1",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c2ff4a40-8b82-4c20-8969-186455c5ef64",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "22dabb45-2386-4c3c-ba97-f2cbe8e53224",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "31aad750-db78-4688-a610-547e7ddfa3f6",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_b5c35c69-87ad-4313-aef0-68fc71fb8edf",
+        "raw_id": "b5c35c69-87ad-4313-aef0-68fc71fb8edf",
+        "order_num": 29,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q29.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5ca7b4b4-b508-428f-ae71-209fb2e1f403",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f413d7b0-5924-4737-8187-764104923872",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f86c8c5a-a7d2-4900-8618-5be8e15a2e8c",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "8e09bc3a-f37f-428f-ac74-feb6a9dc9414",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_cc9e5564-980b-4175-b170-bb113bbb4936",
+        "raw_id": "cc9e5564-980b-4175-b170-bb113bbb4936",
+        "order_num": 30,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q30.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "e864a4f4-4b8e-4bee-99cb-afb112515462",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6e7e3ab3-ab09-4e3e-a05f-ba86b1a62f7e",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "08c14ed0-b822-44a9-b583-e121eb5414ec",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6f787e19-7300-4281-8fa6-55c0afd63bca",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_83a3a9d1-1fba-4952-bc2f-2c10b48ddaea",
+        "raw_id": "83a3a9d1-1fba-4952-bc2f-2c10b48ddaea",
+        "order_num": 31,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q31.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d17d598a-cbbd-4ed1-a894-61422666577b",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2ed50e42-6cfc-4ef6-be75-705f582f0837",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9b107949-7baa-42d5-881a-58681886570b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0778aeef-028c-4d5b-bde8-90c96378f222",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_06645228-ce18-4596-85e5-ff39131d3bb0",
+        "raw_id": "06645228-ce18-4596-85e5-ff39131d3bb0",
+        "order_num": 32,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q32.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2c9baeca-72fa-499b-9b50-865f9c97e6ea",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "82509c0c-9dd7-4e7b-89e7-e52199a28980",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7a805cb8-7069-4aa2-892c-a2c66f8b3861",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "300d836b-bab2-4290-a2b2-5ff19b2ce907",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_ccb04269-aa3f-42c0-bbde-8d954e133943",
+        "raw_id": "ccb04269-aa3f-42c0-bbde-8d954e133943",
+        "order_num": 33,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q33.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "83a3da21-8232-417e-bca1-c0eac2e4e9b9",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "97c2437c-078d-4eb5-ba14-5fd9baf95442",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c7c1d01d-7a8c-4e3b-9db9-c84a9c72a60a",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "53b111b4-b6a2-4c12-9156-1f38975934a3",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_8cf005ab-1ff2-4ff3-8a87-ad8c1a14ec8f",
+        "raw_id": "8cf005ab-1ff2-4ff3-8a87-ad8c1a14ec8f",
+        "order_num": 34,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q34.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "acd9b831-c161-4750-8b7b-2267469ce89d",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "9bd64421-412f-4642-bc70-f571d560ab51",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5213100e-a8b6-4e27-912f-ff009358b646",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb7c07b6-b432-4a73-9fc9-d73ab786917f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_cf563a2f-a234-4f73-a1a3-f92c62c7b162",
+        "raw_id": "cf563a2f-a234-4f73-a1a3-f92c62c7b162",
+        "order_num": 35,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q35.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5f03eeb5-a360-4783-ae59-650e87e53026",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "97872af5-d5ea-4ea5-9b9c-5345b2d2e98d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d10e1ceb-8d56-4963-8d3d-d67c558af926",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "171ebdff-5bb5-42e5-a934-e77e54970ccd",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_97c9c9dc-093e-4c7c-8b16-51f622b3f726",
+        "raw_id": "97c9c9dc-093e-4c7c-8b16-51f622b3f726",
+        "order_num": 36,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q36.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "291b8878-4695-4da9-928e-e5daf11a4aec",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "58e330a5-7eaf-4fc6-9b67-a8a1ecca772d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2bab9307-8dea-4065-b0c2-0244b9c3e794",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d3c3850c-5fe6-45c5-8843-ecc8c3a316aa",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_602245ff-22ff-49f5-9c28-47e94d70ec06",
+        "raw_id": "602245ff-22ff-49f5-9c28-47e94d70ec06",
+        "order_num": 37,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q37.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c4ed9c9e-101f-46ca-9cde-acf5be7a6fd8",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6ffd1f29-b2ea-41ef-b032-3cef216a15d5",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "00a2e2b9-96a7-46c7-9ad3-b38b89d4a8a4",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6f3928f4-6970-493a-b891-c5ecbe322382",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_f1cb0084-af90-4738-be62-36de50c2ee59",
+        "raw_id": "f1cb0084-af90-4738-be62-36de50c2ee59",
+        "order_num": 38,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q38.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "cbba32a3-c0ae-4005-b95f-a462a3a1d571",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7025f45b-9ab2-4621-aada-3e7f625883b8",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5d687ed6-1b07-4c0e-a667-23778789edcc",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "93afc23f-b1f5-4f25-b28d-83098664ae74",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_54b11205-e798-457a-8f4c-4a8a3e026afb",
+        "raw_id": "54b11205-e798-457a-8f4c-4a8a3e026afb",
+        "order_num": 39,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q39.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "12ab61f3-a736-4eb0-957e-84c336bdb7c9",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "07f56790-8a61-4166-a9db-6ed5d5c60e17",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "999ab445-d4d4-47d1-b0c3-8f722f242d6d",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bdff14c8-698b-46dd-a622-96884b1bde52",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_d42dcf62-77da-4246-ae21-a913309ecb14",
+        "raw_id": "d42dcf62-77da-4246-ae21-a913309ecb14",
+        "order_num": 40,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q40.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "aa3ce1cd-d752-47aa-95ff-11642a280c6d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "94db526a-5373-4e92-86f3-66fe75c3c79a",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ff42124d-f913-4e49-b9da-af785964edb7",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6ce846ce-0ed8-4cf6-a32d-bd986d35b857",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_dfb8d074-01e5-4b62-becd-faa3225835c2",
+        "raw_id": "dfb8d074-01e5-4b62-becd-faa3225835c2",
+        "order_num": 41,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q41.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "3b129778-aafa-4427-a118-a431035ebf38",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a860efdc-8bf3-450f-82c2-f116f3b478a9",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "68d57e6a-f7ee-420e-a40e-5fb1c48fa5d0",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5424b824-4bcb-4925-9816-44e912b0719f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_ea282a9a-8743-4e70-807c-a23c37498c2a",
+        "raw_id": "ea282a9a-8743-4e70-807c-a23c37498c2a",
+        "order_num": 42,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q42.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "09f0cfec-9838-4677-af54-e5840a556813",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ad0952e4-7306-4fc6-b1bf-311e6ce276a0",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "55525805-e1e4-43dd-ad01-e82b3cfb5481",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "26891090-75b7-4b4b-bc7e-43cccea44b8c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_16f20857-f5cb-44e9-8ddd-3aa0d9a7dc69",
+        "raw_id": "16f20857-f5cb-44e9-8ddd-3aa0d9a7dc69",
+        "order_num": 43,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q43.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "156c7316-646f-4df2-88d7-55ddab4c84bc",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "f7855978-64c1-43f9-8ea8-ccfb44086aeb",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e19a4a13-7aab-4854-a9ce-d39a5ecbb8da",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6ff8eb25-0510-4d58-b723-aa68880b4825",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_e9ebca18-4b3a-447f-9c1e-e5b63dc24b9b",
+        "raw_id": "e9ebca18-4b3a-447f-9c1e-e5b63dc24b9b",
+        "order_num": 44,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q44.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "25a287ca-1b6c-4b01-bf25-42da12cf34d2",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3c00c23c-50b5-4bfe-ba85-dbabaa93626e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2c7810e1-ab06-415e-aa35-c9ba9125b198",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "740e6b83-8ca2-4f71-bf2d-4bc21e6f5048",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_0a65ab41-8a49-4872-94eb-bbd3fc94b48e",
+        "raw_id": "0a65ab41-8a49-4872-94eb-bbd3fc94b48e",
+        "order_num": 45,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q45.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "8d41681d-b15e-4c10-943d-eda99ca7e495",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "07928774-ed83-48ad-914f-701253f9d57c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8be9849e-8978-4771-b646-ff1aad2b256f",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7792c3d6-bfa6-47d9-b982-453ff0c229b9",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5e2aef4f-ba98-4895-80bb-f78bcf08a70d",
+        "raw_id": "5e2aef4f-ba98-4895-80bb-f78bcf08a70d",
+        "order_num": 46,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q46.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5983919e-fd41-4b50-88c0-c54aa6db30d2",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "319a83dd-57c4-4ad1-933f-472031ec9169",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "426b0416-af63-4a66-830f-15900ec2d733",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9c9ad670-dade-4345-8796-e5066b8919ae",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_f1b2911a-e0ea-45c0-a334-a6e33424425e",
+        "raw_id": "f1b2911a-e0ea-45c0-a334-a6e33424425e",
+        "order_num": 47,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q47.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2d10054e-02b0-4092-a7cd-f8ddfd824a55",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a9dd7d01-8c30-4ce9-a886-ad5560337a65",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f77e0717-2d16-485b-8d5f-847d09c4ceba",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d8c44005-d6a3-4fe0-8c47-4a0fcecf1d0c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_acaeb902-47ea-4414-9702-549149708d7e",
+        "raw_id": "acaeb902-47ea-4414-9702-549149708d7e",
+        "order_num": 48,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q48.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "8c41034f-f690-45eb-a7d7-333a17190544",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1b7a5bab-d19d-4703-a9a4-3644bc3bbe74",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb89f7fd-21af-4e68-bb8b-fdef0e5dac45",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2eb961d6-9529-4cf4-9ee6-de3ec853c895",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_c73132e5-2792-467f-99f7-5a498887aee1",
+        "raw_id": "c73132e5-2792-467f-99f7-5a498887aee1",
+        "order_num": 49,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q49.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b8d05c87-752b-448c-a7f5-86f0ab36cd6e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "8c5190e3-e49c-4474-9da3-dc37e98d11f9",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2752bb5d-12c4-44de-86f6-bf343795b0f3",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8ba288b4-7007-4dfb-8af9-04e8c6bffdaa",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_fe19fac5-0f8d-4e54-b018-b0d5be651904",
+        "raw_id": "fe19fac5-0f8d-4e54-b018-b0d5be651904",
+        "order_num": 50,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q50.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "65158eaa-36e4-4c0a-9b27-35df71f444ac",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "33654220-5c9e-464a-b715-4faeca033398",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dfa6859f-b0f2-45b7-9228-5c0175805b8e",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c32f6c7f-7911-49e1-99dc-2864ff0676ff",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "counts": {
+      "D": 5,
+      "A": 31,
+      "C": 9,
+      "B": 4,
+      "A, B": 1
+    },
+    "total": 50
+  },
+  {
     "id": "exam_all",
-    "code": "ALL_150",
-    "title": "TỔNG HỢP CẢ 3 ĐỀ (150 CÂU HỎI TOÀN DIỆN)",
-    "shortTitle": "🔥 Tổng Hợp 3 Đề (150 Câu)",
+    "code": "ALL_200",
+    "title": "TỔNG HỢP CẢ 4 ĐỀ (200 CÂU HỎI TOÀN DIỆN)",
+    "shortTitle": "🔥 Tổng Hợp 4 Đề (200 Câu)",
     "type": "mixed",
     "isAll": true,
     "questions": [
@@ -8345,7 +10413,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_54cfa0ca-51d6-4b6b-81aa-876c6995e2d3",
         "raw_id": "54cfa0ca-51d6-4b6b-81aa-876c6995e2d3",
         "order_num": 1,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8386,7 +10454,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_5a528e54-aa13-4703-8cab-abf3f9272f4f",
         "raw_id": "5a528e54-aa13-4703-8cab-abf3f9272f4f",
         "order_num": 2,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8427,7 +10495,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_b3c639da-d86b-41de-be33-2924fa427d31",
         "raw_id": "b3c639da-d86b-41de-be33-2924fa427d31",
         "order_num": 3,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8468,7 +10536,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3949ad5c-1a20-4a3e-b6f8-a1224e35b61a",
         "raw_id": "3949ad5c-1a20-4a3e-b6f8-a1224e35b61a",
         "order_num": 4,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8509,7 +10577,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_de5278ea-6510-43b8-aaa4-707b066399d7",
         "raw_id": "de5278ea-6510-43b8-aaa4-707b066399d7",
         "order_num": 5,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8550,7 +10618,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_7be6edc7-4c8a-42f9-aade-10a6d7bbf91b",
         "raw_id": "7be6edc7-4c8a-42f9-aade-10a6d7bbf91b",
         "order_num": 6,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8591,7 +10659,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_bebcb056-cfd0-4547-b45f-075072088e14",
         "raw_id": "bebcb056-cfd0-4547-b45f-075072088e14",
         "order_num": 7,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8632,7 +10700,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_5625c624-a943-444c-b094-204b842fe878",
         "raw_id": "5625c624-a943-444c-b094-204b842fe878",
         "order_num": 8,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8673,7 +10741,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_089ee29b-5f48-4f11-ab09-6499f9808b2d",
         "raw_id": "089ee29b-5f48-4f11-ab09-6499f9808b2d",
         "order_num": 9,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8714,7 +10782,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3739a5ed-dcd8-4e30-85f8-f3b28600fc0d",
         "raw_id": "3739a5ed-dcd8-4e30-85f8-f3b28600fc0d",
         "order_num": 10,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8755,7 +10823,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_d38689c9-1449-42f0-8071-33a4f872e793",
         "raw_id": "d38689c9-1449-42f0-8071-33a4f872e793",
         "order_num": 11,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8796,7 +10864,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_aaf91836-bf34-4d3b-a7ce-2fe675f290f1",
         "raw_id": "aaf91836-bf34-4d3b-a7ce-2fe675f290f1",
         "order_num": 12,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8837,7 +10905,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_64ed75de-e3bd-445b-a418-6f55359e1e46",
         "raw_id": "64ed75de-e3bd-445b-a418-6f55359e1e46",
         "order_num": 13,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8878,7 +10946,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_631102e5-e9c4-45cd-9cda-d2a71fa7aa18",
         "raw_id": "631102e5-e9c4-45cd-9cda-d2a71fa7aa18",
         "order_num": 14,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8919,7 +10987,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_d3cf42ad-8056-45e1-adc3-e12699d1fc80",
         "raw_id": "d3cf42ad-8056-45e1-adc3-e12699d1fc80",
         "order_num": 15,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -8960,7 +11028,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_d60b20c6-86a0-4050-9ab4-061ea4da3abc",
         "raw_id": "d60b20c6-86a0-4050-9ab4-061ea4da3abc",
         "order_num": 16,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9001,7 +11069,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_a95cb15b-dff5-40a9-9ed3-510418465d1c",
         "raw_id": "a95cb15b-dff5-40a9-9ed3-510418465d1c",
         "order_num": 17,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9042,7 +11110,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_74c8ebcc-5a19-4ee9-80d0-40d123d08aec",
         "raw_id": "74c8ebcc-5a19-4ee9-80d0-40d123d08aec",
         "order_num": 18,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9083,7 +11151,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_2d7305f1-6e99-4327-8382-5d3fbc3d3fe5",
         "raw_id": "2d7305f1-6e99-4327-8382-5d3fbc3d3fe5",
         "order_num": 19,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9124,7 +11192,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_12cdac51-92dc-49bb-8868-1f13fc2dbfb3",
         "raw_id": "12cdac51-92dc-49bb-8868-1f13fc2dbfb3",
         "order_num": 20,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9165,7 +11233,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_b4318b62-e4ad-460f-ad2b-c09c68366616",
         "raw_id": "b4318b62-e4ad-460f-ad2b-c09c68366616",
         "order_num": 21,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9206,7 +11274,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_85e23f58-3861-4491-a2ca-bd04c5037b39",
         "raw_id": "85e23f58-3861-4491-a2ca-bd04c5037b39",
         "order_num": 22,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9247,7 +11315,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3c90700d-e9c9-4454-a8e3-5a0ca1cb6a8d",
         "raw_id": "3c90700d-e9c9-4454-a8e3-5a0ca1cb6a8d",
         "order_num": 23,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9288,7 +11356,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_815692aa-18ca-446f-8e1c-fd12406866c4",
         "raw_id": "815692aa-18ca-446f-8e1c-fd12406866c4",
         "order_num": 24,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9329,7 +11397,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_ce2fdc46-d616-4d9b-984c-1f5b39d4d1cd",
         "raw_id": "ce2fdc46-d616-4d9b-984c-1f5b39d4d1cd",
         "order_num": 25,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9370,7 +11438,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_384fa442-29b8-44c4-8939-b54c53c401c1",
         "raw_id": "384fa442-29b8-44c4-8939-b54c53c401c1",
         "order_num": 26,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9411,7 +11479,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_04f9de45-2a15-4f27-80e0-11102cd9d32c",
         "raw_id": "04f9de45-2a15-4f27-80e0-11102cd9d32c",
         "order_num": 27,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9452,7 +11520,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_d1d74535-96fe-4474-8cf4-06d8a9b0a819",
         "raw_id": "d1d74535-96fe-4474-8cf4-06d8a9b0a819",
         "order_num": 28,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9493,7 +11561,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_e90cc424-99f8-40a1-85b8-fe08d5db99b8",
         "raw_id": "e90cc424-99f8-40a1-85b8-fe08d5db99b8",
         "order_num": 29,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9534,7 +11602,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_efd12c9a-a6cc-4883-a1e0-3017b7e5140c",
         "raw_id": "efd12c9a-a6cc-4883-a1e0-3017b7e5140c",
         "order_num": 30,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9575,7 +11643,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_01cb45c3-7538-4f49-8867-990c019c8edf",
         "raw_id": "01cb45c3-7538-4f49-8867-990c019c8edf",
         "order_num": 31,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9616,7 +11684,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_97bba6ce-9935-4dfb-9914-0f23fd085df1",
         "raw_id": "97bba6ce-9935-4dfb-9914-0f23fd085df1",
         "order_num": 32,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9657,7 +11725,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3ed57e25-9de4-4a01-9118-5faa27ea95d4",
         "raw_id": "3ed57e25-9de4-4a01-9118-5faa27ea95d4",
         "order_num": 33,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9698,7 +11766,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_9ffa251f-7d99-409b-ba6d-3b045620a2f2",
         "raw_id": "9ffa251f-7d99-409b-ba6d-3b045620a2f2",
         "order_num": 34,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9739,7 +11807,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_c20bc1c0-2978-418b-bcc1-f3778b36f872",
         "raw_id": "c20bc1c0-2978-418b-bcc1-f3778b36f872",
         "order_num": 35,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9780,7 +11848,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_59ecee15-0427-4cff-92c8-c0cb71368555",
         "raw_id": "59ecee15-0427-4cff-92c8-c0cb71368555",
         "order_num": 36,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9821,7 +11889,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_c99c86f2-009c-4a29-9eb9-7d4188a3d8f9",
         "raw_id": "c99c86f2-009c-4a29-9eb9-7d4188a3d8f9",
         "order_num": 37,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9862,7 +11930,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_978f7741-f8e4-47f1-898e-d578a9ebb827",
         "raw_id": "978f7741-f8e4-47f1-898e-d578a9ebb827",
         "order_num": 38,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9903,7 +11971,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_23410794-755f-42ad-9125-b03ec197419d",
         "raw_id": "23410794-755f-42ad-9125-b03ec197419d",
         "order_num": 39,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9944,7 +12012,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_420250c6-d6f8-4df3-97d2-51d9b71af5ad",
         "raw_id": "420250c6-d6f8-4df3-97d2-51d9b71af5ad",
         "order_num": 40,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -9985,7 +12053,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_5fbbbf57-2b4d-4e07-a236-6841d6057409",
         "raw_id": "5fbbbf57-2b4d-4e07-a236-6841d6057409",
         "order_num": 41,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10026,7 +12094,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_49e379c3-7a5b-4f0a-b4b4-726a0da57bda",
         "raw_id": "49e379c3-7a5b-4f0a-b4b4-726a0da57bda",
         "order_num": 42,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10073,7 +12141,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_7d921874-e05f-4158-b1bf-a20807a4342a",
         "raw_id": "7d921874-e05f-4158-b1bf-a20807a4342a",
         "order_num": 43,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10114,7 +12182,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_94ae126a-04b8-4c37-b051-a5b6a3d8bcbc",
         "raw_id": "94ae126a-04b8-4c37-b051-a5b6a3d8bcbc",
         "order_num": 44,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10155,7 +12223,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_4c3e11af-8547-4f71-b72f-62bf5a657f16",
         "raw_id": "4c3e11af-8547-4f71-b72f-62bf5a657f16",
         "order_num": 45,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10196,7 +12264,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_3b6806d3-2cca-4c09-9168-768cbffab06c",
         "raw_id": "3b6806d3-2cca-4c09-9168-768cbffab06c",
         "order_num": 46,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10237,7 +12305,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_8fc6c501-d0b5-4382-bc88-38e32dce619e",
         "raw_id": "8fc6c501-d0b5-4382-bc88-38e32dce619e",
         "order_num": 47,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10278,7 +12346,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_6e507370-aca0-4b17-8967-55cf9faed9c0",
         "raw_id": "6e507370-aca0-4b17-8967-55cf9faed9c0",
         "order_num": 48,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10319,7 +12387,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_2af7c026-0ab5-4076-837f-06916b185d6b",
         "raw_id": "2af7c026-0ab5-4076-837f-06916b185d6b",
         "order_num": 49,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -10360,7 +12428,7 @@ var EXAMS_DATA = [
         "id": "PRO192_SP26_B5_FE_RE_6254bf3a-cc46-4820-ba74-547da7480241",
         "raw_id": "6254bf3a-cc46-4820-ba74-547da7480241",
         "order_num": 50,
-        "exam_source": "Đề 2 (SP26 B5 Ảnh)",
+        "exam_source": "Đề 2 (SP26 B5-RE Ảnh)",
         "exam_code": "PRO192_SP26_B5_FE_RE",
         "content": null,
         "explanation": null,
@@ -12452,20 +14520,2070 @@ var EXAMS_DATA = [
             "is_correct": true
           }
         ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_9274f881-caf6-48e2-a8ed-f7ba85fa0489",
+        "raw_id": "9274f881-caf6-48e2-a8ed-f7ba85fa0489",
+        "order_num": 1,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q01.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "879ea1f3-65b0-4539-b2bb-88bae3e7b552",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dbc80753-e1e5-44a9-82cf-896871393905",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a0ac9ed9-b0b3-49e1-b250-3959fcad3ae2",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "85da2f31-0933-4e3b-b5d1-ca864fcaca9c",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_7e4c5fd8-e8df-47b3-a770-fc9454017c95",
+        "raw_id": "7e4c5fd8-e8df-47b3-a770-fc9454017c95",
+        "order_num": 2,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q02.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b04473a6-ff31-45d7-af57-ae20f8ae6869",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "e71bea8e-5e4d-4a27-9bff-e0b95940689d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "97838473-ffb3-494d-be6b-9be0432460e5",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0105bd9c-d264-4d5b-a703-410513d02d6b",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_8bc14a55-a059-46fc-b189-4c52486e131b",
+        "raw_id": "8bc14a55-a059-46fc-b189-4c52486e131b",
+        "order_num": 3,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q03.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "782397cd-1f41-4128-84a7-d36c713e55f9",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "e2a1261a-3332-42d1-80d9-67b16d95424d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "59355f85-2103-485f-a913-1d7c1ed3f6c5",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5dbf7d24-03a7-4cf3-8154-b12f93683c3f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_ebb55159-49a1-4b03-adc5-a8b1c1454274",
+        "raw_id": "ebb55159-49a1-4b03-adc5-a8b1c1454274",
+        "order_num": 4,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q04.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "4484231e-f8cc-4265-b48b-1e3c637bc5d1",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "180fab5b-8ab5-4ab6-a722-fbca92c913cb",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7c0d686a-7554-4f7e-820b-ba6185e5e3bc",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "4b666094-51fc-4d64-9388-5872ea6619ab",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_b5ad4e37-e413-46c3-9237-c2bf3fdee140",
+        "raw_id": "b5ad4e37-e413-46c3-9237-c2bf3fdee140",
+        "order_num": 5,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q05.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5ecd2182-00da-4317-82f2-54c8aa00036f",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "d8a2593a-29cc-4af4-8add-2ffa01fa9c4d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d29c624f-4e95-4f11-b170-c939a80cdfa1",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6d98f4f2-ef9a-4301-ae96-e67f3a9150e5",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_13a56b1f-c8f9-4fb0-94ca-bca3ecf1b820",
+        "raw_id": "13a56b1f-c8f9-4fb0-94ca-bca3ecf1b820",
+        "order_num": 6,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q06.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0938b469-528b-4a98-bd2b-c6a4f3cbf47e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ea447650-9a96-48d6-ba44-1eaa32187835",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "808bc3fd-9ae0-4747-b39c-6d31e583e6db",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c873ef4b-286a-4744-9f1e-5d88b676e43c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5cc8795d-f638-41a3-9c6d-17675d644277",
+        "raw_id": "5cc8795d-f638-41a3-9c6d-17675d644277",
+        "order_num": 7,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q07.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "76809808-cdb2-49d0-9125-a37dabee147c",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3f304eb3-69f0-4977-aa35-7657fb1b0492",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "35d445cc-6edd-4f6a-9590-067c51308906",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a10ec645-31a0-40d7-a5e0-72b9b61205dd",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_8c6bbd77-cd41-4dbb-aab0-0844cbc00077",
+        "raw_id": "8c6bbd77-cd41-4dbb-aab0-0844cbc00077",
+        "order_num": 8,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q08.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "417b1fd1-abb2-4d2c-a158-039fa6076fb9",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "4dfd9fea-cdcc-4d4d-a0a4-77542bbe4213",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a97a5391-7140-40d8-9f45-4d0b1d7c3746",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ed2e3a01-892d-4c02-b535-8461c743831f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_45d9c83e-71ec-4c94-880d-47cc08b6ff51",
+        "raw_id": "45d9c83e-71ec-4c94-880d-47cc08b6ff51",
+        "order_num": 9,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q09.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0c1b84f2-c126-47f3-b56a-9862cd179055",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ecc31127-2bab-4f70-aca0-9db40a471da3",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d738b5b2-4004-4b5d-a744-fe165c1678e7",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "280f27ef-e434-421f-801f-2af72e24c483",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_510e9bfe-cdfa-4ec4-90d3-351b2a5fea95",
+        "raw_id": "510e9bfe-cdfa-4ec4-90d3-351b2a5fea95",
+        "order_num": 10,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q10.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "70b13bdd-74f0-4878-a72c-ef97008e8f2d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "87ccd450-2990-415b-b4d0-ad94b588ab3c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dfe56ddd-4144-49e4-abc4-8e1dd4afb088",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "76810fb0-ad5c-4c5b-b247-c217633ed762",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_0ac88a7b-ea5c-465b-b006-69cd879f1919",
+        "raw_id": "0ac88a7b-ea5c-465b-b006-69cd879f1919",
+        "order_num": 11,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q11.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "048236bc-0664-49dc-bec7-f35e9f222ceb",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "137b1634-7667-4251-b1ec-73c27077421e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8f452414-91dc-4d93-b8f8-acb3ea77d71d",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "506afe35-31d6-483c-a860-cdfd7f8468c4",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_3f74c95b-78d6-410d-9c3c-47111c502e3a",
+        "raw_id": "3f74c95b-78d6-410d-9c3c-47111c502e3a",
+        "order_num": 12,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q12.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7737bf48-9d9a-46c7-b87b-09f6733bbdbd",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "319955d5-b4d7-408e-9520-c4dd2d3da32b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "82e749aa-cb93-4228-aee5-ac32fb1efdc1",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e5268e9c-6603-4351-a552-7847af0ef85f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_c7f218df-34de-4db0-af9c-aa1217737015",
+        "raw_id": "c7f218df-34de-4db0-af9c-aa1217737015",
+        "order_num": 13,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q13.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "f2ee7176-08da-4cc9-a753-c88d702af594",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "0fe96dbb-c41b-4e0a-ba2c-820c7c8bcf17",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ac388414-fd21-4a57-bdf0-aacf0fa69472",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b574e8dd-c030-4dab-8f3c-26f329127d0a",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5769e6ea-b160-4bf0-959a-f30fa39c5064",
+        "raw_id": "5769e6ea-b160-4bf0-959a-f30fa39c5064",
+        "order_num": 14,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q14.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "334f28a4-8418-42d3-ae4f-7327d76b30af",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "51e67cef-3c44-42eb-901a-6710588bef0d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "51632829-81ec-4dbe-a516-b4d29a8759f3",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f37697a2-ff03-43d9-b54f-5c10113d733a",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5f52b3db-0231-4881-948d-6877e984c1f5",
+        "raw_id": "5f52b3db-0231-4881-948d-6877e984c1f5",
+        "order_num": 15,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q15.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d861bbfd-19a1-4eb8-b046-e6035eb246bf",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "12b3b86e-69c1-4786-992f-401809212dd6",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2e36b784-1d93-44b3-9cb0-0549db2a1278",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "321b28b9-ce02-4caa-b9e3-182a37723923",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5cbd172a-7717-4394-909e-5e4036d31118",
+        "raw_id": "5cbd172a-7717-4394-909e-5e4036d31118",
+        "order_num": 16,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q16.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "30f3fc59-d280-43e6-a304-911b2bebd671",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "db91cafb-11ad-49ae-b3c0-c724f1e01218",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c6e57704-3912-4f68-8b00-7a2dba45c639",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "202e8788-6705-4031-8fd6-8c96ccaf661e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_b66c030b-4da3-494e-be29-fbca48a9eddd",
+        "raw_id": "b66c030b-4da3-494e-be29-fbca48a9eddd",
+        "order_num": 17,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q17.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "bc9bd685-b828-475c-9f5c-62379dd4bb0d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "37a96f9e-cc7d-4bd4-871e-cf22dbca6557",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "18657785-1461-411e-954c-2146906a4e0d",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "eaad5cc4-1a62-4999-888f-19fc59bcc17c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_2c15e4ec-34d7-430f-b9ba-711c9ae5b364",
+        "raw_id": "2c15e4ec-34d7-430f-b9ba-711c9ae5b364",
+        "order_num": 18,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q18.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b048b1ec-dbdc-4a3c-8c6e-52e42a96e5e5",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "70c99af2-c99a-4797-a78f-a9ff5333ee3b",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "d6d2c317-3815-48ff-a828-e22d6f0c8ab0",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "839ac4e1-c406-4f94-b5cc-7c6a28f45fe5",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_a34c859a-9267-4f09-8707-0c9b93bd931f",
+        "raw_id": "a34c859a-9267-4f09-8707-0c9b93bd931f",
+        "order_num": 19,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q19.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "26d960e5-edb0-4623-a50d-ac989eda869b",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3f8e7afc-0d72-4b83-ad0b-b301a6aef9c3",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dab2f242-ecfb-4e99-a7d6-75a9e5901f00",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7a7ed88f-e8a4-4d21-8bb2-260e1f1b1c29",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_850c3896-35ae-4eab-a165-42c5a300c21c",
+        "raw_id": "850c3896-35ae-4eab-a165-42c5a300c21c",
+        "order_num": 20,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q20.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "6bd51664-ef3a-46a2-8bdb-e61f94d9c296",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "75db46e1-2372-4b31-9731-2b8122164119",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5c62aeba-72ce-4248-9a94-a22cde097f14",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "715b15c7-1e75-4ece-8682-175ddbd7f572",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_57a8c9cc-237c-41ec-835c-bdcca1f21216",
+        "raw_id": "57a8c9cc-237c-41ec-835c-bdcca1f21216",
+        "order_num": 21,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q21.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b2e40baf-806f-4fe9-bbed-5addc59d6e88",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "f3a8174e-edda-4362-930a-d19a1a7c52f6",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c4c92296-2b32-4072-b983-0180821d8603",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1a5df6d3-935b-4a4c-84a4-c6a37c2baa09",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_dcc48b9d-69d5-46be-96b8-9c9e57e28a53",
+        "raw_id": "dcc48b9d-69d5-46be-96b8-9c9e57e28a53",
+        "order_num": 22,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q22.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "a6648090-459f-475c-b92c-12f3f37506dc",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "dc0383bd-00ce-4b9c-b6b2-646579c8aca2",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2bf4b048-7fc5-4190-af69-75c05a4eed98",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "34ed234a-4b8c-4116-a25f-6e90ee389449",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_f8819cb6-f81c-4cb4-88bf-e69490689c24",
+        "raw_id": "f8819cb6-f81c-4cb4-88bf-e69490689c24",
+        "order_num": 23,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q23.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c4ffb155-e222-4e09-9132-9289732375d1",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9866306a-a5ea-4e35-bace-8eceb95bc63a",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "87d53490-b2fe-46c9-b82e-6f67925dc273",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f21e69c4-c069-45b6-adbb-79a3c130f338",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_9043a2a1-0876-432a-8083-416fd9bc6a36",
+        "raw_id": "9043a2a1-0876-432a-8083-416fd9bc6a36",
+        "order_num": 24,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q24.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "860c517c-915d-4160-a8ff-ef82d34166a2",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a8e426a2-904c-4688-81f4-7edc3d6c250c",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "eb618350-372a-47f7-8b0e-5230f8210abf",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ea35fb80-5444-4193-8b2a-03fc5f39d561",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_00e905c0-1afd-42b6-9acd-61cdea312465",
+        "raw_id": "00e905c0-1afd-42b6-9acd-61cdea312465",
+        "order_num": 25,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q25.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "f470de53-a945-40dc-b423-c70673adad5e",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0dbbfc43-9d97-469e-94aa-4d13a74dd045",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2c4a8b2d-8ef3-47ff-9135-4c31456acb61",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1facbb34-ae63-4563-a696-a554828ca5db",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_65f8214b-923f-4b30-bba3-a95713caa970",
+        "raw_id": "65f8214b-923f-4b30-bba3-a95713caa970",
+        "order_num": 26,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q26.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "4b94f34c-f47e-4c16-993c-d77d60a19bba",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3f5d61e0-1752-4a98-bd7f-98651a6a4626",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "17117996-ef32-4cdd-9f7d-22117f360172",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "92c94986-10df-4bfd-a35a-f6094595d150",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5751f630-7a90-4c7e-8ef3-d1373fbc7a4b",
+        "raw_id": "5751f630-7a90-4c7e-8ef3-d1373fbc7a4b",
+        "order_num": 27,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q27.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "a96660e8-b6a6-49aa-9621-6631a41fee37",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "010f54f9-7b13-4e57-9dd5-286563d1bd9c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "448d5d1b-6bb7-4767-9567-e4f249964145",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9a765172-04ff-4dad-a316-7072b391d5e6",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_41325d00-517c-43da-8b77-46c33e438cc6",
+        "raw_id": "41325d00-517c-43da-8b77-46c33e438cc6",
+        "order_num": 28,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q28.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "1b81dc82-cd5f-48cf-8c16-827f547c5aa1",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c2ff4a40-8b82-4c20-8969-186455c5ef64",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "22dabb45-2386-4c3c-ba97-f2cbe8e53224",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "31aad750-db78-4688-a610-547e7ddfa3f6",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_b5c35c69-87ad-4313-aef0-68fc71fb8edf",
+        "raw_id": "b5c35c69-87ad-4313-aef0-68fc71fb8edf",
+        "order_num": 29,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q29.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5ca7b4b4-b508-428f-ae71-209fb2e1f403",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f413d7b0-5924-4737-8187-764104923872",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f86c8c5a-a7d2-4900-8618-5be8e15a2e8c",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "8e09bc3a-f37f-428f-ac74-feb6a9dc9414",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_cc9e5564-980b-4175-b170-bb113bbb4936",
+        "raw_id": "cc9e5564-980b-4175-b170-bb113bbb4936",
+        "order_num": 30,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q30.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "e864a4f4-4b8e-4bee-99cb-afb112515462",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6e7e3ab3-ab09-4e3e-a05f-ba86b1a62f7e",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "08c14ed0-b822-44a9-b583-e121eb5414ec",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6f787e19-7300-4281-8fa6-55c0afd63bca",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_83a3a9d1-1fba-4952-bc2f-2c10b48ddaea",
+        "raw_id": "83a3a9d1-1fba-4952-bc2f-2c10b48ddaea",
+        "order_num": 31,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q31.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d17d598a-cbbd-4ed1-a894-61422666577b",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2ed50e42-6cfc-4ef6-be75-705f582f0837",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9b107949-7baa-42d5-881a-58681886570b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0778aeef-028c-4d5b-bde8-90c96378f222",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_06645228-ce18-4596-85e5-ff39131d3bb0",
+        "raw_id": "06645228-ce18-4596-85e5-ff39131d3bb0",
+        "order_num": 32,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q32.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2c9baeca-72fa-499b-9b50-865f9c97e6ea",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "82509c0c-9dd7-4e7b-89e7-e52199a28980",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7a805cb8-7069-4aa2-892c-a2c66f8b3861",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "300d836b-bab2-4290-a2b2-5ff19b2ce907",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_ccb04269-aa3f-42c0-bbde-8d954e133943",
+        "raw_id": "ccb04269-aa3f-42c0-bbde-8d954e133943",
+        "order_num": 33,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q33.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "83a3da21-8232-417e-bca1-c0eac2e4e9b9",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "97c2437c-078d-4eb5-ba14-5fd9baf95442",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c7c1d01d-7a8c-4e3b-9db9-c84a9c72a60a",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "53b111b4-b6a2-4c12-9156-1f38975934a3",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_8cf005ab-1ff2-4ff3-8a87-ad8c1a14ec8f",
+        "raw_id": "8cf005ab-1ff2-4ff3-8a87-ad8c1a14ec8f",
+        "order_num": 34,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q34.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "acd9b831-c161-4750-8b7b-2267469ce89d",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "9bd64421-412f-4642-bc70-f571d560ab51",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5213100e-a8b6-4e27-912f-ff009358b646",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb7c07b6-b432-4a73-9fc9-d73ab786917f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_cf563a2f-a234-4f73-a1a3-f92c62c7b162",
+        "raw_id": "cf563a2f-a234-4f73-a1a3-f92c62c7b162",
+        "order_num": 35,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q35.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5f03eeb5-a360-4783-ae59-650e87e53026",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "97872af5-d5ea-4ea5-9b9c-5345b2d2e98d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d10e1ceb-8d56-4963-8d3d-d67c558af926",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "171ebdff-5bb5-42e5-a934-e77e54970ccd",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_97c9c9dc-093e-4c7c-8b16-51f622b3f726",
+        "raw_id": "97c9c9dc-093e-4c7c-8b16-51f622b3f726",
+        "order_num": 36,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q36.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "291b8878-4695-4da9-928e-e5daf11a4aec",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "58e330a5-7eaf-4fc6-9b67-a8a1ecca772d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2bab9307-8dea-4065-b0c2-0244b9c3e794",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d3c3850c-5fe6-45c5-8843-ecc8c3a316aa",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_602245ff-22ff-49f5-9c28-47e94d70ec06",
+        "raw_id": "602245ff-22ff-49f5-9c28-47e94d70ec06",
+        "order_num": 37,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q37.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c4ed9c9e-101f-46ca-9cde-acf5be7a6fd8",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6ffd1f29-b2ea-41ef-b032-3cef216a15d5",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "00a2e2b9-96a7-46c7-9ad3-b38b89d4a8a4",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6f3928f4-6970-493a-b891-c5ecbe322382",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_f1cb0084-af90-4738-be62-36de50c2ee59",
+        "raw_id": "f1cb0084-af90-4738-be62-36de50c2ee59",
+        "order_num": 38,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q38.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "cbba32a3-c0ae-4005-b95f-a462a3a1d571",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7025f45b-9ab2-4621-aada-3e7f625883b8",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5d687ed6-1b07-4c0e-a667-23778789edcc",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "93afc23f-b1f5-4f25-b28d-83098664ae74",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_54b11205-e798-457a-8f4c-4a8a3e026afb",
+        "raw_id": "54b11205-e798-457a-8f4c-4a8a3e026afb",
+        "order_num": 39,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q39.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "12ab61f3-a736-4eb0-957e-84c336bdb7c9",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "07f56790-8a61-4166-a9db-6ed5d5c60e17",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "999ab445-d4d4-47d1-b0c3-8f722f242d6d",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bdff14c8-698b-46dd-a622-96884b1bde52",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_d42dcf62-77da-4246-ae21-a913309ecb14",
+        "raw_id": "d42dcf62-77da-4246-ae21-a913309ecb14",
+        "order_num": 40,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q40.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "aa3ce1cd-d752-47aa-95ff-11642a280c6d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "94db526a-5373-4e92-86f3-66fe75c3c79a",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ff42124d-f913-4e49-b9da-af785964edb7",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6ce846ce-0ed8-4cf6-a32d-bd986d35b857",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_dfb8d074-01e5-4b62-becd-faa3225835c2",
+        "raw_id": "dfb8d074-01e5-4b62-becd-faa3225835c2",
+        "order_num": 41,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q41.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "3b129778-aafa-4427-a118-a431035ebf38",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a860efdc-8bf3-450f-82c2-f116f3b478a9",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "68d57e6a-f7ee-420e-a40e-5fb1c48fa5d0",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5424b824-4bcb-4925-9816-44e912b0719f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_ea282a9a-8743-4e70-807c-a23c37498c2a",
+        "raw_id": "ea282a9a-8743-4e70-807c-a23c37498c2a",
+        "order_num": 42,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q42.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "09f0cfec-9838-4677-af54-e5840a556813",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ad0952e4-7306-4fc6-b1bf-311e6ce276a0",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "55525805-e1e4-43dd-ad01-e82b3cfb5481",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "26891090-75b7-4b4b-bc7e-43cccea44b8c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_16f20857-f5cb-44e9-8ddd-3aa0d9a7dc69",
+        "raw_id": "16f20857-f5cb-44e9-8ddd-3aa0d9a7dc69",
+        "order_num": 43,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q43.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "156c7316-646f-4df2-88d7-55ddab4c84bc",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "f7855978-64c1-43f9-8ea8-ccfb44086aeb",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e19a4a13-7aab-4854-a9ce-d39a5ecbb8da",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6ff8eb25-0510-4d58-b723-aa68880b4825",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_e9ebca18-4b3a-447f-9c1e-e5b63dc24b9b",
+        "raw_id": "e9ebca18-4b3a-447f-9c1e-e5b63dc24b9b",
+        "order_num": 44,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q44.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "25a287ca-1b6c-4b01-bf25-42da12cf34d2",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3c00c23c-50b5-4bfe-ba85-dbabaa93626e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2c7810e1-ab06-415e-aa35-c9ba9125b198",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "740e6b83-8ca2-4f71-bf2d-4bc21e6f5048",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_0a65ab41-8a49-4872-94eb-bbd3fc94b48e",
+        "raw_id": "0a65ab41-8a49-4872-94eb-bbd3fc94b48e",
+        "order_num": 45,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q45.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "8d41681d-b15e-4c10-943d-eda99ca7e495",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "07928774-ed83-48ad-914f-701253f9d57c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8be9849e-8978-4771-b646-ff1aad2b256f",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7792c3d6-bfa6-47d9-b982-453ff0c229b9",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_5e2aef4f-ba98-4895-80bb-f78bcf08a70d",
+        "raw_id": "5e2aef4f-ba98-4895-80bb-f78bcf08a70d",
+        "order_num": 46,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q46.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5983919e-fd41-4b50-88c0-c54aa6db30d2",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "319a83dd-57c4-4ad1-933f-472031ec9169",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "426b0416-af63-4a66-830f-15900ec2d733",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9c9ad670-dade-4345-8796-e5066b8919ae",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_f1b2911a-e0ea-45c0-a334-a6e33424425e",
+        "raw_id": "f1b2911a-e0ea-45c0-a334-a6e33424425e",
+        "order_num": 47,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q47.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2d10054e-02b0-4092-a7cd-f8ddfd824a55",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a9dd7d01-8c30-4ce9-a886-ad5560337a65",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f77e0717-2d16-485b-8d5f-847d09c4ceba",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d8c44005-d6a3-4fe0-8c47-4a0fcecf1d0c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_acaeb902-47ea-4414-9702-549149708d7e",
+        "raw_id": "acaeb902-47ea-4414-9702-549149708d7e",
+        "order_num": 48,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q48.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "8c41034f-f690-45eb-a7d7-333a17190544",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1b7a5bab-d19d-4703-a9a4-3644bc3bbe74",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb89f7fd-21af-4e68-bb8b-fdef0e5dac45",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2eb961d6-9529-4cf4-9ee6-de3ec853c895",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_c73132e5-2792-467f-99f7-5a498887aee1",
+        "raw_id": "c73132e5-2792-467f-99f7-5a498887aee1",
+        "order_num": 49,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q49.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b8d05c87-752b-448c-a7f5-86f0ab36cd6e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "8c5190e3-e49c-4474-9da3-dc37e98d11f9",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2752bb5d-12c4-44de-86f6-bf343795b0f3",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8ba288b4-7007-4dfb-8af9-04e8c6bffdaa",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SP26_B5_FE_fe19fac5-0f8d-4e54-b018-b0d5be651904",
+        "raw_id": "fe19fac5-0f8d-4e54-b018-b0d5be651904",
+        "order_num": 50,
+        "exam_source": "Đề 4 (SP26 B5-FE Ảnh)",
+        "exam_code": "PRO192_SP26_B5_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/sp26_b5_fe_q50.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "65158eaa-36e4-4c0a-9b27-35df71f444ac",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "33654220-5c9e-464a-b715-4faeca033398",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dfa6859f-b0f2-45b7-9228-5c0175805b8e",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c32f6c7f-7911-49e1-99dc-2864ff0676ff",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
       }
     ],
     "counts": {
-      "A": 89,
-      "D": 16,
-      "A, B": 4,
-      "C": 14,
-      "B": 20,
+      "A": 120,
+      "D": 21,
+      "A, B": 5,
+      "C": 23,
+      "B": 24,
       "A, C, D": 1,
       "A, B, C": 2,
       "A, B, D": 2,
       "E": 2
     },
-    "total": 150
+    "total": 200
   }
 ];
 if (typeof window !== 'undefined') { window.EXAMS_DATA = EXAMS_DATA; }

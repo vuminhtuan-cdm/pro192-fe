@@ -23,7 +23,7 @@ exam_configs = [
         "id": "exam_2",
         "code": "PRO192_SP26_B5_FE_RE",
         "title": "Đề 2: Đề Thi FE - PRO192 - SP26 - B5 - FE - RE (Đề Thi Ảnh)",
-        "shortTitle": "Đề 2 (SP26 B5 Ảnh)",
+        "shortTitle": "Đề 2 (SP26 B5-RE Ảnh)",
         "type": "image",
         "filename": "PRO192_SP26_B5_FE_RE.json"
     },
@@ -34,6 +34,14 @@ exam_configs = [
         "shortTitle": "Đề 3 (SP26 RE Ảnh)",
         "type": "image",
         "filename": "PRO192_SP26_RE.json"
+    },
+    {
+        "id": "exam_4",
+        "code": "PRO192_SP26_B5_FE",
+        "title": "Đề 4: Đề Thi FE - PRO192 - SP26 - B5 - FE (Đề Thi Ảnh)",
+        "shortTitle": "Đề 4 (SP26 B5-FE Ảnh)",
+        "type": "image",
+        "filename": "PRO192_SP26_B5_FE.json"
     }
 ]
 
@@ -63,13 +71,11 @@ for config in exam_configs:
     for q in questions:
         raw_options = q.get("question_options", [])
         
-        # Check max label of correct answer (e.g. if E is correct, keep up to E)
         correct_labels = [opt["label"] for opt in raw_options if opt.get("is_correct")]
         correct_labels.sort()
         correct_str = ", ".join(correct_labels)
         
-        # Determine valid options: keep at least A, B, C, D
-        # If any correct or non-empty beyond D, keep up to that option
+        # Keep options A, B, C, D at minimum
         labels_to_keep = {'A', 'B', 'C', 'D'}
         for opt in raw_options:
             if opt.get("is_correct") or (opt.get("content") and opt.get("content").strip()):
