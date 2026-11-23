@@ -82,6 +82,14 @@ exam_configs = [
         "shortTitle": "Đề 9 (SU25 B5-1)",
         "type": "image",
         "filename": "PRO192_SU25_B5_1.json"
+    },
+    {
+        "id": "exam_10",
+        "code": "PRO192_SU25_FE",
+        "title": "Đề 10: Đề Thi FE - PRO192 - SU25 - FE (50 câu)",
+        "shortTitle": "Đề 10 (SU25 FE)",
+        "type": "image",
+        "filename": "PRO192_SU25_FE.json"
     }
 ]
 

@@ -18747,10 +18747,2086 @@ var EXAMS_DATA = [
     "total": 50
   },
   {
+    "id": "exam_10",
+    "code": "PRO192_SU25_FE",
+    "title": "Đề 10: Đề Thi FE - PRO192 - SU25 - FE (50 câu)",
+    "shortTitle": "Đề 10 (SU25 FE)",
+    "type": "image",
+    "filename": "PRO192_SU25_FE.json",
+    "questions": [
+      {
+        "id": "PRO192_SU25_FE_fbfe6ebc-fb87-43a4-a4b3-b35b060df61c",
+        "raw_id": "fbfe6ebc-fb87-43a4-a4b3-b35b060df61c",
+        "order_num": 1,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q01.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d8fa459d-0e87-4355-ab91-61540358a11e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "cda21c65-eb3e-49bb-b182-17b9c13e9f37",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6f56bd72-902d-46eb-b533-c6c89c80d0ce",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0f9e23d5-45cb-4591-a32a-85542d99f511",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_0efb4670-531d-4c11-a918-6e84dd391926",
+        "raw_id": "0efb4670-531d-4c11-a918-6e84dd391926",
+        "order_num": 2,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q02.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5593ad04-fddb-4adb-afa0-1bff1536ff85",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "29916feb-9583-4788-85cb-1e7b72cfb957",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "902a9c4f-cf79-42c6-b16a-0d77d1b5cdf2",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cbe11400-0c1c-4164-82ba-720cab2ed7fe",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_0ec3022f-508a-4b64-af4b-f00f871be6ea",
+        "raw_id": "0ec3022f-508a-4b64-af4b-f00f871be6ea",
+        "order_num": 3,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q03.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0670f727-70c9-4994-98b9-5fcc8a5c936e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "35bf3a05-266e-4773-99d7-ef661fc6f244",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bda3c733-0aac-4683-988a-7dc0a832d61e",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "174c3ea3-691a-4d08-b07c-27510d89ed2e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_44cedfb1-2059-4b61-aa08-6aa226b5ed1e",
+        "raw_id": "44cedfb1-2059-4b61-aa08-6aa226b5ed1e",
+        "order_num": 4,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q04.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "8a67e97b-a659-4779-8228-52b0bf91b794",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "bc8b0161-2776-4684-8ad9-23269e0c0d70",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ef29cc7f-ce64-44ed-859a-2f749f3e5d8f",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ead67cef-41d6-4cd2-b64c-205e3526a7e4",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_d33172a2-f050-401b-803d-afe80a384294",
+        "raw_id": "d33172a2-f050-401b-803d-afe80a384294",
+        "order_num": 5,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q05.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "db94399a-e471-42dd-a62f-4ca51a145d0d",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "5336b449-6deb-4c84-a13e-2f86d1813592",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "647a4350-19e4-4ccb-9531-c1472be89a95",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b06b34d6-d673-4cc8-ac83-77bb00eb2f77",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fb9a41a6-67cf-4332-b72f-b642ad318724",
+        "raw_id": "fb9a41a6-67cf-4332-b72f-b642ad318724",
+        "order_num": 6,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q06.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b3f135d9-455b-46bb-a11e-69bc422d1ec4",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "5a3a227a-b70b-466b-bfe9-7107b342ca3a",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6eb14734-c1b7-415d-8a69-ab23ec7302bf",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6767a2b2-01a5-47b8-8b0b-80b03ef34a91",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_e26e7894-a405-43b2-984b-3e9615f92bd9",
+        "raw_id": "e26e7894-a405-43b2-984b-3e9615f92bd9",
+        "order_num": 7,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q07.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "6d8519e4-7728-4dc7-90ae-658194d944b3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "36b2dd53-5dc0-44e5-95ad-c1ff0ef49595",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a94d00f3-f74e-4dbc-bc80-1ee05917fd73",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ddf4d4ef-79de-40a2-911a-5206310cd269",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fcea5228-201c-498b-9cba-a8a3537a5ec9",
+        "raw_id": "fcea5228-201c-498b-9cba-a8a3537a5ec9",
+        "order_num": 8,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q08.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "31640cc8-0853-460f-b87c-9b1afdb17641",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6472c139-055a-408f-905b-60549853a5ee",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e917028a-bbe4-47dd-ae82-613d52025e88",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1ad42ab5-b2bf-48be-82a9-18f79faa1c67",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_29ff49c6-4af1-430c-bdaf-83d6b05d2775",
+        "raw_id": "29ff49c6-4af1-430c-bdaf-83d6b05d2775",
+        "order_num": 9,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q09.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "49e0bae6-5b2f-4c38-9785-0823c156c596",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "485b14e8-205e-46e3-b85e-563ef48acbf5",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "884f9eac-c332-4e86-9eff-8dbe80f1134b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "90851e16-0181-4757-b660-196e118a221d",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_561b111c-e339-4112-82a2-217e264a3094",
+        "raw_id": "561b111c-e339-4112-82a2-217e264a3094",
+        "order_num": 10,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q10.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "84fac93b-7fa0-41bd-941c-64474477f2b2",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a82e40db-be7a-41b5-ac0a-50a33f4aa75a",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7c48442f-aa16-472d-9a25-e78ecf97ff3e",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "69ea46ca-cbba-4e26-9f2c-435c93986b4b",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_86fda2af-7c8e-4c17-afe4-c78069a47390",
+        "raw_id": "86fda2af-7c8e-4c17-afe4-c78069a47390",
+        "order_num": 11,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q11.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c54dfabe-8fda-42a5-ac6a-2af4ef8dcbc9",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f606d3ca-1b24-4cdd-89a9-58fcd23d602e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0e5b2317-9b84-47d3-a2ed-97013b256564",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ca251a8d-ab8d-434e-b605-22ce1a3e143d",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_9f9f817e-e248-4283-952e-07dd1309c597",
+        "raw_id": "9f9f817e-e248-4283-952e-07dd1309c597",
+        "order_num": 12,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q12.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7ac0d1d8-29f2-4f8c-bf45-b436a2e48bde",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7849e44c-0cb8-43c4-b536-30df47d35fa1",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1829808d-ecbc-4645-9cd7-7db1e9d0dff7",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a6068c2c-3c61-4e08-b996-b0c102eccd8c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_cea44ba0-8e2b-4377-bf63-fa371efd7897",
+        "raw_id": "cea44ba0-8e2b-4377-bf63-fa371efd7897",
+        "order_num": 13,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q13.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d5cc5757-5090-46c3-a579-eaa227758dcb",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2a7a5b90-7e5e-4b7e-b07a-0f3e83cef41e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2e0552dc-de86-4b3d-8b75-843d1f8c03db",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ff532aa8-48d0-4d54-a25f-0f7ac5247489",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b2ae380e-4ee3-45ac-b84a-ae2cc2b337b6",
+        "raw_id": "b2ae380e-4ee3-45ac-b84a-ae2cc2b337b6",
+        "order_num": 14,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q14.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "982c5293-f594-42ff-996d-219fe6a2aeda",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "134f0080-474f-48e9-ba6d-56400ad295b3",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "649c208f-e7f7-456e-ac21-a8aedd7ed63f",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3e0a0dcc-d883-4308-836e-ce5582b83329",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_7b19cc93-e363-47e1-bbb7-d96d1135e425",
+        "raw_id": "7b19cc93-e363-47e1-bbb7-d96d1135e425",
+        "order_num": 15,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q15.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "736cad42-04c1-4329-bde5-3445f174f6eb",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "09dc9e75-e1f1-4b56-af28-514c4d2b4ab0",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "64ecbdcb-367b-4930-920b-2063ad7c4246",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4ebb38b7-884c-4a15-bba4-eab0b2686617",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_932d5da7-9eba-478c-96de-d44a5aeacca3",
+        "raw_id": "932d5da7-9eba-478c-96de-d44a5aeacca3",
+        "order_num": 16,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q16.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "6d45528b-abf2-4169-8ceb-1dea38dd1cef",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "14e1fa09-c867-4735-841f-afe4ada57c96",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "53053c93-668a-4892-ac69-380017afe1d4",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "084caeea-8d95-4b50-b67c-e1eb6f53db2d",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_3c22e9b3-e9aa-4f7c-b3ab-c066cb47d503",
+        "raw_id": "3c22e9b3-e9aa-4f7c-b3ab-c066cb47d503",
+        "order_num": 17,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q17.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "057dbea3-ec57-40d6-a9e5-b90411f1a499",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2146e3eb-cbb2-4c8c-a288-1699dba6d022",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "31465cca-8b45-41a6-b74b-63add9a45177",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "62c49de9-9be2-4dbf-aae0-c7cbcd5dfa05",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_411a592c-7ae8-4173-8a83-8b45aee4fe73",
+        "raw_id": "411a592c-7ae8-4173-8a83-8b45aee4fe73",
+        "order_num": 18,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q18.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "19f094f1-d6cd-40cc-8b15-b9b47c4674e4",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1fdea596-1921-4722-a4dc-0d61cbb39bd2",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c0200318-d48f-418b-ae6c-068813458d96",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "08d0fa99-5d4e-4bea-8ced-ed85022bada4",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b18080cf-ad79-4372-83e5-17cf6aaefe15",
+        "raw_id": "b18080cf-ad79-4372-83e5-17cf6aaefe15",
+        "order_num": 19,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q19.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "722b3157-679e-4884-a7d7-9cd948e0ba79",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "edbfef94-b018-4af8-b599-b0f46eeafc7a",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5f8c66dc-5854-4806-a96e-b73620661a45",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "937868d7-6b34-4102-97fc-2f15ef26d49c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_17a72b5a-cff5-4dab-94af-c27e4ba68310",
+        "raw_id": "17a72b5a-cff5-4dab-94af-c27e4ba68310",
+        "order_num": 20,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q20.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "ec914ee6-27d2-4ec8-9b37-f4b24152c4b8",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "74e91bd0-6567-40df-ba2b-d3f8ad838cf4",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "09ccd368-c552-4e62-bfaa-96781b7de4f6",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "de8924a8-9a58-40a6-a345-04fe2e05b553",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_e3dd757b-2d96-4188-b913-7abf5416f52e",
+        "raw_id": "e3dd757b-2d96-4188-b913-7abf5416f52e",
+        "order_num": 21,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q21.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5feaa6cb-1352-4034-8cca-66be1f183c9f",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "78ff8eed-a323-400c-a0a9-47634ed00f05",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "471a6a69-954e-4742-87a2-775236ac9579",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c035501a-afd8-45bd-add1-02aa88526721",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_9b1246e8-4baa-409a-a566-4b4f084518aa",
+        "raw_id": "9b1246e8-4baa-409a-a566-4b4f084518aa",
+        "order_num": 22,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q22.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7a525e8a-c2bb-40b4-827a-eb11903e7bf3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2fc92f20-e0bc-4c55-aaf6-910cb41fa527",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "026878fa-5265-4b93-b251-bbbd237e75a9",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b2dce93d-62c8-4542-bdb4-1537314f51d1",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_089e1bbf-9925-4c1f-924a-a72a384292c8",
+        "raw_id": "089e1bbf-9925-4c1f-924a-a72a384292c8",
+        "order_num": 23,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q23.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c8b96b5c-c84c-4d4d-ab14-a3badcb83aca",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "61016ead-d502-4bce-8223-c92dff237c6b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0e900476-3b0b-4c47-8ae4-00b153abd81e",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d69fad3a-8021-4bd9-b871-220d4b25f63b",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_4af0fe10-dc54-41be-8341-527520180801",
+        "raw_id": "4af0fe10-dc54-41be-8341-527520180801",
+        "order_num": 24,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q24.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "44747a5f-dd87-4bc7-b995-3d3677b8d682",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5cdba2f3-81dd-4a93-a957-81d4d05cb357",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "754d35a3-8b12-4727-8fef-aa229ebe623b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fd59b3ec-7d8b-487a-9ae9-138c1a24f88d",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fc04a403-7dc4-4edc-8edd-9045f8942c1b",
+        "raw_id": "fc04a403-7dc4-4edc-8edd-9045f8942c1b",
+        "order_num": 25,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q25.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "9f9349a2-57f8-4cc8-b75d-18d8c095ba23",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "870706d4-c5b3-440b-a62d-3294c9432d93",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "75dba732-3b5f-40b8-a339-9bc49e47bd2b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c42f2aee-e3d8-47ee-a608-690f97939a61",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_53c86339-390a-49ed-ab74-84f8d9ed89e1",
+        "raw_id": "53c86339-390a-49ed-ab74-84f8d9ed89e1",
+        "order_num": 26,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q26.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B, D",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "09a9bbc8-bbfe-4403-8b71-d6172852843b",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "18dc2b3b-635e-43ea-a0ae-d0259a3ef521",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c540b415-9731-491f-8a06-f2252fb87196",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f1a1bd4f-e60a-469d-b4fb-5463e1ef5db4",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_13b1911d-4b98-4382-aa51-d020e6ea3d59",
+        "raw_id": "13b1911d-4b98-4382-aa51-d020e6ea3d59",
+        "order_num": 27,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q27.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "bade6517-289a-4c3a-93c2-a0cc6182f627",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "97d32a51-6d23-4b97-a5f5-7ab9f0ec2c50",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "717f0c52-852a-4f4c-9d1a-785d4443838c",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5ffc4167-dc98-4a72-a35d-003907912dfb",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_39e1b386-45d3-45a3-b9b7-87d9b79fb85c",
+        "raw_id": "39e1b386-45d3-45a3-b9b7-87d9b79fb85c",
+        "order_num": 28,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q28.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "9c01e207-65e4-4579-897f-42ab994faccb",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "9bd26138-f6e9-45dd-9611-c41428aaf217",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "91ca1e83-4bd8-4fbd-905c-bdc86b79a570",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "86ebb082-ccd4-485e-ad5f-6dc2a02a35f0",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b5e36618-a189-481b-aac6-821a4b6791a8",
+        "raw_id": "b5e36618-a189-481b-aac6-821a4b6791a8",
+        "order_num": 29,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q29.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "17322c3d-b36f-4d63-8a8e-db13ce07728b",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e317a205-445b-470e-9b52-61a038c089d6",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1d45db71-aa9e-49d1-b963-375172836605",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7af57206-92db-485c-8497-0b584b1e3aff",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_bbac9fc6-220b-47f5-bf7c-1879e7f5a5a7",
+        "raw_id": "bbac9fc6-220b-47f5-bf7c-1879e7f5a5a7",
+        "order_num": 30,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q30.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "af44eb99-b30b-48dc-b789-225486566864",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "294ebdb3-1d6c-4bb4-b7a2-0adc71a0c939",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "01525ef1-ef33-4cf7-a11a-39ace6d15d06",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "afd723ba-86b6-4726-8820-bf63b3c51cd9",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_5b133485-b423-4cc1-9bce-eb8a9d025de1",
+        "raw_id": "5b133485-b423-4cc1-9bce-eb8a9d025de1",
+        "order_num": 31,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q31.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "cc2c56c3-73f2-4f3c-af0e-a74948565283",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "56a4c90d-f0e1-4649-90da-1b8da5d4736b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7d66c40f-4eb5-4405-ba29-872d85e779e8",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c3a30a29-e7e2-4034-8041-b1a4ad46513c",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fc5e9618-f98f-4236-8214-3c06b180032f",
+        "raw_id": "fc5e9618-f98f-4236-8214-3c06b180032f",
+        "order_num": 32,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q32.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "9cff5f4e-740a-4412-ac80-8c885966dc82",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a4662713-a071-4de7-95cf-5eef6f8445d4",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6e1f6668-41f8-4a39-bf7e-3eb753e98f75",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "df85801b-e92d-434b-94b6-172167a39092",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_70b08d70-8b84-4134-9a5e-eba2bd2d5fdc",
+        "raw_id": "70b08d70-8b84-4134-9a5e-eba2bd2d5fdc",
+        "order_num": 33,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q33.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "e7856c2a-7754-4de5-bd2f-e0a28ebf6b64",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "179a8fa3-5600-4f6a-b6cb-c2879dfafb85",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b2ab1087-32d1-45bb-93f1-e722618ee098",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3d465847-000e-4af3-99ef-9ae578e5c58c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_30dd69a6-3fd3-4b8a-a8de-45be8795916d",
+        "raw_id": "30dd69a6-3fd3-4b8a-a8de-45be8795916d",
+        "order_num": 34,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q34.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "38334aa5-336b-49e2-9cbb-82948f80dfcc",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "55298e31-9ec8-4bfe-9baf-1fb774011500",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ccf60901-f2cc-4cfe-8c37-d4105404cb99",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f45a530f-7a52-4b9e-99bd-6b4fc7ba3587",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_7c1234d1-dde9-40d3-97db-6c7d5e92d088",
+        "raw_id": "7c1234d1-dde9-40d3-97db-6c7d5e92d088",
+        "order_num": 35,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q35.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0a536053-988e-4d05-83c7-bdb55f266a2f",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1f546132-4122-4d57-b5b0-4103bc6cdbb5",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "677a22cd-54c3-438b-8add-a95559aad550",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c119eb98-da68-41f1-8658-1cbc66b53fa5",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_013d5cea-6f18-4632-b10d-f4385d91ff2e",
+        "raw_id": "013d5cea-6f18-4632-b10d-f4385d91ff2e",
+        "order_num": 36,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q36.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b2682256-54ca-4545-a6c3-6516b9d55a93",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6104b9e9-6896-456f-9386-90a4018567f0",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3f86ba43-228c-47f9-bba9-d472e730dbf1",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "50b201e5-e484-432f-ae19-ceea246f1aee",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_4ec74444-b400-4f23-a120-3fc82b703b57",
+        "raw_id": "4ec74444-b400-4f23-a120-3fc82b703b57",
+        "order_num": 37,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q37.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "237720af-a129-41e1-926c-d820a606d127",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1de835bf-9760-4aa1-920e-9dea8aad4547",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "25efaa9b-9b3f-410c-afad-5770b2a9eadc",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "636f8e7e-c929-4d5f-83eb-aa139cb82011",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_bcc69dac-c4ad-4282-8909-37c2de48aefc",
+        "raw_id": "bcc69dac-c4ad-4282-8909-37c2de48aefc",
+        "order_num": 38,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q38.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7cdc6f0e-e17c-4d55-a2b3-6aaee0f10745",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dcc92312-938f-46e3-b298-0740983faaa1",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "45a072c6-4d03-42b8-9c1d-78fb6ff9bf4c",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "57cb47eb-0837-431f-bd2d-b355ae97d5ec",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_38bd0e80-b847-4cf0-82ef-6754de00a001",
+        "raw_id": "38bd0e80-b847-4cf0-82ef-6754de00a001",
+        "order_num": 39,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q39.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d925a616-3189-4740-8de4-322da7e13429",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "340aaca9-121f-4beb-ba17-2d281b7a7043",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "daaac861-9de0-484c-8dad-70ec1c135585",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "15557ee4-a924-427d-ae27-4efd397285e9",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_2bd8ed6d-151e-4f4f-9509-64f1d4149df1",
+        "raw_id": "2bd8ed6d-151e-4f4f-9509-64f1d4149df1",
+        "order_num": 40,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q40.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "84339b4e-b5bd-467d-aa55-f8ebf8936155",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b35dcf47-6b9f-4de4-8687-bf22626a148b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f20fef9a-c261-48ae-ba8b-61ba90551667",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1a616301-81a1-4525-92aa-58ac48616c1f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_7ce6a2ab-da7d-4e7d-b6f1-0a6e6e27a078",
+        "raw_id": "7ce6a2ab-da7d-4e7d-b6f1-0a6e6e27a078",
+        "order_num": 41,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q41.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c4000731-e3e5-4a2a-815d-69886c642ba0",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "cb359e02-8b3e-4c2c-8996-2f74b0061408",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bee2afea-adeb-4eb7-9d83-d498ba2518e7",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8a748f05-359e-49a6-b9c7-9a37565a89d6",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_3942fd22-4755-4a22-b526-6bc5c53d6ec5",
+        "raw_id": "3942fd22-4755-4a22-b526-6bc5c53d6ec5",
+        "order_num": 42,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q42.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "a6f5912a-c5e0-4629-92ab-f5e5f90cb866",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "bc52d847-f5d5-44e2-b35b-600618e7c1f2",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fe99ea5b-1a69-48ce-960f-fedc6b526185",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0ae636ba-a205-4ea0-beb7-2c3b39778098",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_036e76b0-0a15-4d01-bc33-eed0c02328ad",
+        "raw_id": "036e76b0-0a15-4d01-bc33-eed0c02328ad",
+        "order_num": 43,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q43.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "E",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "07e3a709-074a-4096-9a91-6a57d7bab489",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9ec418ba-9dfd-4a20-99e6-5961293abb6b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8a0415bd-7c9c-4b20-8d39-a8d774194a02",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "38750e6f-8e6a-47d7-891d-28e8162bf54e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9ece447a-bd8f-420e-9630-25bdb8e7fb17",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b5d90b6a-f850-4c64-a535-bb57cfd8ee1d",
+        "raw_id": "b5d90b6a-f850-4c64-a535-bb57cfd8ee1d",
+        "order_num": 44,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q44.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c56dcd4e-6710-4dcc-ab50-b830f83b1fbd",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "95ab4bba-39be-470b-9f9e-71375d45cb77",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4ca3818e-e898-422f-a938-eb10f2cf828f",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "263e900a-e1fc-49dc-968b-63b1b8e27bf7",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_422e25a0-8eba-4c8a-992a-305e88896faa",
+        "raw_id": "422e25a0-8eba-4c8a-992a-305e88896faa",
+        "order_num": 45,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q45.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "fdcc6adf-6db1-404f-b5b6-e9999ee51730",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "d1352a66-4295-4312-9ed7-5fb4e5db646c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "217d9054-8466-4423-b3e1-a376578f4561",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "43f63d71-9f1f-4486-805e-941f6f365e39",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_e99122ea-7857-49bf-a758-1d7e55492503",
+        "raw_id": "e99122ea-7857-49bf-a758-1d7e55492503",
+        "order_num": 46,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q46.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5dcff016-b0b1-4041-8f16-0a907f04206d",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6c602ad4-815b-41d3-9d7f-28761617e2a7",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a765e716-55ca-4d3f-a8ba-e0abccd8a506",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5b307735-93e8-43ea-aa39-29a443d713a0",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_6de8e00c-5c46-4e31-a38a-ab68e8c1e349",
+        "raw_id": "6de8e00c-5c46-4e31-a38a-ab68e8c1e349",
+        "order_num": 47,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q47.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7144a896-d311-4d1c-899f-5385617639e3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "650ccd97-0a00-46a7-9f90-78cf80dc7617",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "659ba199-b73b-41dd-8271-c5a79a16e61d",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8ee11709-43a3-4c18-8f25-6852f4bda9c3",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b3f06a86-7a97-406c-ac74-5099f7c40cc1",
+        "raw_id": "b3f06a86-7a97-406c-ac74-5099f7c40cc1",
+        "order_num": 48,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q48.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "1288f051-1492-4495-a593-ba0667c801cf",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "e0096d96-2715-48f1-be81-24dce61ed8b4",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7d991ebc-5de7-4604-a784-cfe92f54dfb0",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bc9ad9b8-33bf-4406-8614-a4a03b998f3c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_1159f04f-3157-4686-a22c-0d5b32e2356d",
+        "raw_id": "1159f04f-3157-4686-a22c-0d5b32e2356d",
+        "order_num": 49,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q49.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0b156aa7-36c1-46e7-9cfb-f2ad8283493b",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "9ed5b8f0-16fc-48b8-949c-fe82280a673d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "93e123d2-dc0c-4230-8494-869779c8fa96",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cc6726e6-f32a-4299-89f2-7d8eb06b2077",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_63a3dbe4-85b6-43b9-b869-d53a29ca8ba4",
+        "raw_id": "63a3dbe4-85b6-43b9-b869-d53a29ca8ba4",
+        "order_num": 50,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q50.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b1ab7f97-f9de-4b4b-bd98-764ab716b07c",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3b508239-4a86-4f17-bc0d-9142e1ff1a2b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b2044400-a41e-4317-a691-e3dd3a41cfe2",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e9fb6b9a-f939-4859-b401-62a2cf81839e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "counts": {
+      "A": 40,
+      "A, B": 1,
+      "D": 4,
+      "B": 2,
+      "A, B, D": 1,
+      "C": 1,
+      "E": 1
+    },
+    "total": 50
+  },
+  {
     "id": "exam_all",
-    "code": "ALL_452",
-    "title": "TỔNG HỢP CẢ 9 ĐỀ (452 CÂU HỎI TOÀN DIỆN)",
-    "shortTitle": "🔥 Tổng Hợp 9 Đề (452 Câu)",
+    "code": "ALL_502",
+    "title": "TỔNG HỢP CẢ 10 ĐỀ (502 CÂU HỎI TOÀN DIỆN)",
+    "shortTitle": "🔥 Tổng Hợp 10 Đề (502 Câu)",
     "type": "mixed",
     "isAll": true,
     "questions": [
@@ -37327,22 +39403,2078 @@ var EXAMS_DATA = [
             "is_correct": false
           }
         ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fbfe6ebc-fb87-43a4-a4b3-b35b060df61c",
+        "raw_id": "fbfe6ebc-fb87-43a4-a4b3-b35b060df61c",
+        "order_num": 1,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q01.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d8fa459d-0e87-4355-ab91-61540358a11e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "cda21c65-eb3e-49bb-b182-17b9c13e9f37",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6f56bd72-902d-46eb-b533-c6c89c80d0ce",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0f9e23d5-45cb-4591-a32a-85542d99f511",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_0efb4670-531d-4c11-a918-6e84dd391926",
+        "raw_id": "0efb4670-531d-4c11-a918-6e84dd391926",
+        "order_num": 2,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q02.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5593ad04-fddb-4adb-afa0-1bff1536ff85",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "29916feb-9583-4788-85cb-1e7b72cfb957",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "902a9c4f-cf79-42c6-b16a-0d77d1b5cdf2",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cbe11400-0c1c-4164-82ba-720cab2ed7fe",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_0ec3022f-508a-4b64-af4b-f00f871be6ea",
+        "raw_id": "0ec3022f-508a-4b64-af4b-f00f871be6ea",
+        "order_num": 3,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q03.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0670f727-70c9-4994-98b9-5fcc8a5c936e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "35bf3a05-266e-4773-99d7-ef661fc6f244",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bda3c733-0aac-4683-988a-7dc0a832d61e",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "174c3ea3-691a-4d08-b07c-27510d89ed2e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_44cedfb1-2059-4b61-aa08-6aa226b5ed1e",
+        "raw_id": "44cedfb1-2059-4b61-aa08-6aa226b5ed1e",
+        "order_num": 4,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q04.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "8a67e97b-a659-4779-8228-52b0bf91b794",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "bc8b0161-2776-4684-8ad9-23269e0c0d70",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ef29cc7f-ce64-44ed-859a-2f749f3e5d8f",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ead67cef-41d6-4cd2-b64c-205e3526a7e4",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_d33172a2-f050-401b-803d-afe80a384294",
+        "raw_id": "d33172a2-f050-401b-803d-afe80a384294",
+        "order_num": 5,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q05.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "db94399a-e471-42dd-a62f-4ca51a145d0d",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "5336b449-6deb-4c84-a13e-2f86d1813592",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "647a4350-19e4-4ccb-9531-c1472be89a95",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b06b34d6-d673-4cc8-ac83-77bb00eb2f77",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fb9a41a6-67cf-4332-b72f-b642ad318724",
+        "raw_id": "fb9a41a6-67cf-4332-b72f-b642ad318724",
+        "order_num": 6,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q06.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b3f135d9-455b-46bb-a11e-69bc422d1ec4",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "5a3a227a-b70b-466b-bfe9-7107b342ca3a",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6eb14734-c1b7-415d-8a69-ab23ec7302bf",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6767a2b2-01a5-47b8-8b0b-80b03ef34a91",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_e26e7894-a405-43b2-984b-3e9615f92bd9",
+        "raw_id": "e26e7894-a405-43b2-984b-3e9615f92bd9",
+        "order_num": 7,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q07.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "6d8519e4-7728-4dc7-90ae-658194d944b3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "36b2dd53-5dc0-44e5-95ad-c1ff0ef49595",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a94d00f3-f74e-4dbc-bc80-1ee05917fd73",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ddf4d4ef-79de-40a2-911a-5206310cd269",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fcea5228-201c-498b-9cba-a8a3537a5ec9",
+        "raw_id": "fcea5228-201c-498b-9cba-a8a3537a5ec9",
+        "order_num": 8,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q08.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "31640cc8-0853-460f-b87c-9b1afdb17641",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6472c139-055a-408f-905b-60549853a5ee",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e917028a-bbe4-47dd-ae82-613d52025e88",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1ad42ab5-b2bf-48be-82a9-18f79faa1c67",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_29ff49c6-4af1-430c-bdaf-83d6b05d2775",
+        "raw_id": "29ff49c6-4af1-430c-bdaf-83d6b05d2775",
+        "order_num": 9,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q09.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "49e0bae6-5b2f-4c38-9785-0823c156c596",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "485b14e8-205e-46e3-b85e-563ef48acbf5",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "884f9eac-c332-4e86-9eff-8dbe80f1134b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "90851e16-0181-4757-b660-196e118a221d",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_561b111c-e339-4112-82a2-217e264a3094",
+        "raw_id": "561b111c-e339-4112-82a2-217e264a3094",
+        "order_num": 10,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q10.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "84fac93b-7fa0-41bd-941c-64474477f2b2",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a82e40db-be7a-41b5-ac0a-50a33f4aa75a",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7c48442f-aa16-472d-9a25-e78ecf97ff3e",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "69ea46ca-cbba-4e26-9f2c-435c93986b4b",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_86fda2af-7c8e-4c17-afe4-c78069a47390",
+        "raw_id": "86fda2af-7c8e-4c17-afe4-c78069a47390",
+        "order_num": 11,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q11.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c54dfabe-8fda-42a5-ac6a-2af4ef8dcbc9",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f606d3ca-1b24-4cdd-89a9-58fcd23d602e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0e5b2317-9b84-47d3-a2ed-97013b256564",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ca251a8d-ab8d-434e-b605-22ce1a3e143d",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_9f9f817e-e248-4283-952e-07dd1309c597",
+        "raw_id": "9f9f817e-e248-4283-952e-07dd1309c597",
+        "order_num": 12,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q12.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7ac0d1d8-29f2-4f8c-bf45-b436a2e48bde",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7849e44c-0cb8-43c4-b536-30df47d35fa1",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1829808d-ecbc-4645-9cd7-7db1e9d0dff7",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a6068c2c-3c61-4e08-b996-b0c102eccd8c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_cea44ba0-8e2b-4377-bf63-fa371efd7897",
+        "raw_id": "cea44ba0-8e2b-4377-bf63-fa371efd7897",
+        "order_num": 13,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q13.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d5cc5757-5090-46c3-a579-eaa227758dcb",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2a7a5b90-7e5e-4b7e-b07a-0f3e83cef41e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2e0552dc-de86-4b3d-8b75-843d1f8c03db",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ff532aa8-48d0-4d54-a25f-0f7ac5247489",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b2ae380e-4ee3-45ac-b84a-ae2cc2b337b6",
+        "raw_id": "b2ae380e-4ee3-45ac-b84a-ae2cc2b337b6",
+        "order_num": 14,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q14.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "982c5293-f594-42ff-996d-219fe6a2aeda",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "134f0080-474f-48e9-ba6d-56400ad295b3",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "649c208f-e7f7-456e-ac21-a8aedd7ed63f",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3e0a0dcc-d883-4308-836e-ce5582b83329",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_7b19cc93-e363-47e1-bbb7-d96d1135e425",
+        "raw_id": "7b19cc93-e363-47e1-bbb7-d96d1135e425",
+        "order_num": 15,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q15.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "736cad42-04c1-4329-bde5-3445f174f6eb",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "09dc9e75-e1f1-4b56-af28-514c4d2b4ab0",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "64ecbdcb-367b-4930-920b-2063ad7c4246",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4ebb38b7-884c-4a15-bba4-eab0b2686617",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_932d5da7-9eba-478c-96de-d44a5aeacca3",
+        "raw_id": "932d5da7-9eba-478c-96de-d44a5aeacca3",
+        "order_num": 16,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q16.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "6d45528b-abf2-4169-8ceb-1dea38dd1cef",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "14e1fa09-c867-4735-841f-afe4ada57c96",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "53053c93-668a-4892-ac69-380017afe1d4",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "084caeea-8d95-4b50-b67c-e1eb6f53db2d",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_3c22e9b3-e9aa-4f7c-b3ab-c066cb47d503",
+        "raw_id": "3c22e9b3-e9aa-4f7c-b3ab-c066cb47d503",
+        "order_num": 17,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q17.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "057dbea3-ec57-40d6-a9e5-b90411f1a499",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2146e3eb-cbb2-4c8c-a288-1699dba6d022",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "31465cca-8b45-41a6-b74b-63add9a45177",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "62c49de9-9be2-4dbf-aae0-c7cbcd5dfa05",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_411a592c-7ae8-4173-8a83-8b45aee4fe73",
+        "raw_id": "411a592c-7ae8-4173-8a83-8b45aee4fe73",
+        "order_num": 18,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q18.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "19f094f1-d6cd-40cc-8b15-b9b47c4674e4",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1fdea596-1921-4722-a4dc-0d61cbb39bd2",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c0200318-d48f-418b-ae6c-068813458d96",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "08d0fa99-5d4e-4bea-8ced-ed85022bada4",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b18080cf-ad79-4372-83e5-17cf6aaefe15",
+        "raw_id": "b18080cf-ad79-4372-83e5-17cf6aaefe15",
+        "order_num": 19,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q19.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "722b3157-679e-4884-a7d7-9cd948e0ba79",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "edbfef94-b018-4af8-b599-b0f46eeafc7a",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5f8c66dc-5854-4806-a96e-b73620661a45",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "937868d7-6b34-4102-97fc-2f15ef26d49c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_17a72b5a-cff5-4dab-94af-c27e4ba68310",
+        "raw_id": "17a72b5a-cff5-4dab-94af-c27e4ba68310",
+        "order_num": 20,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q20.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "ec914ee6-27d2-4ec8-9b37-f4b24152c4b8",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "74e91bd0-6567-40df-ba2b-d3f8ad838cf4",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "09ccd368-c552-4e62-bfaa-96781b7de4f6",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "de8924a8-9a58-40a6-a345-04fe2e05b553",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_e3dd757b-2d96-4188-b913-7abf5416f52e",
+        "raw_id": "e3dd757b-2d96-4188-b913-7abf5416f52e",
+        "order_num": 21,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q21.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5feaa6cb-1352-4034-8cca-66be1f183c9f",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "78ff8eed-a323-400c-a0a9-47634ed00f05",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "471a6a69-954e-4742-87a2-775236ac9579",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c035501a-afd8-45bd-add1-02aa88526721",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_9b1246e8-4baa-409a-a566-4b4f084518aa",
+        "raw_id": "9b1246e8-4baa-409a-a566-4b4f084518aa",
+        "order_num": 22,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q22.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7a525e8a-c2bb-40b4-827a-eb11903e7bf3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2fc92f20-e0bc-4c55-aaf6-910cb41fa527",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "026878fa-5265-4b93-b251-bbbd237e75a9",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b2dce93d-62c8-4542-bdb4-1537314f51d1",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_089e1bbf-9925-4c1f-924a-a72a384292c8",
+        "raw_id": "089e1bbf-9925-4c1f-924a-a72a384292c8",
+        "order_num": 23,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q23.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c8b96b5c-c84c-4d4d-ab14-a3badcb83aca",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "61016ead-d502-4bce-8223-c92dff237c6b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0e900476-3b0b-4c47-8ae4-00b153abd81e",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d69fad3a-8021-4bd9-b871-220d4b25f63b",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_4af0fe10-dc54-41be-8341-527520180801",
+        "raw_id": "4af0fe10-dc54-41be-8341-527520180801",
+        "order_num": 24,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q24.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "44747a5f-dd87-4bc7-b995-3d3677b8d682",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5cdba2f3-81dd-4a93-a957-81d4d05cb357",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "754d35a3-8b12-4727-8fef-aa229ebe623b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fd59b3ec-7d8b-487a-9ae9-138c1a24f88d",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fc04a403-7dc4-4edc-8edd-9045f8942c1b",
+        "raw_id": "fc04a403-7dc4-4edc-8edd-9045f8942c1b",
+        "order_num": 25,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q25.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "9f9349a2-57f8-4cc8-b75d-18d8c095ba23",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "870706d4-c5b3-440b-a62d-3294c9432d93",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "75dba732-3b5f-40b8-a339-9bc49e47bd2b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c42f2aee-e3d8-47ee-a608-690f97939a61",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_53c86339-390a-49ed-ab74-84f8d9ed89e1",
+        "raw_id": "53c86339-390a-49ed-ab74-84f8d9ed89e1",
+        "order_num": 26,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q26.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B, D",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "09a9bbc8-bbfe-4403-8b71-d6172852843b",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "18dc2b3b-635e-43ea-a0ae-d0259a3ef521",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c540b415-9731-491f-8a06-f2252fb87196",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f1a1bd4f-e60a-469d-b4fb-5463e1ef5db4",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_13b1911d-4b98-4382-aa51-d020e6ea3d59",
+        "raw_id": "13b1911d-4b98-4382-aa51-d020e6ea3d59",
+        "order_num": 27,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q27.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "bade6517-289a-4c3a-93c2-a0cc6182f627",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "97d32a51-6d23-4b97-a5f5-7ab9f0ec2c50",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "717f0c52-852a-4f4c-9d1a-785d4443838c",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5ffc4167-dc98-4a72-a35d-003907912dfb",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_39e1b386-45d3-45a3-b9b7-87d9b79fb85c",
+        "raw_id": "39e1b386-45d3-45a3-b9b7-87d9b79fb85c",
+        "order_num": 28,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q28.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "9c01e207-65e4-4579-897f-42ab994faccb",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "9bd26138-f6e9-45dd-9611-c41428aaf217",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "91ca1e83-4bd8-4fbd-905c-bdc86b79a570",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "86ebb082-ccd4-485e-ad5f-6dc2a02a35f0",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b5e36618-a189-481b-aac6-821a4b6791a8",
+        "raw_id": "b5e36618-a189-481b-aac6-821a4b6791a8",
+        "order_num": 29,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q29.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "17322c3d-b36f-4d63-8a8e-db13ce07728b",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e317a205-445b-470e-9b52-61a038c089d6",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1d45db71-aa9e-49d1-b963-375172836605",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7af57206-92db-485c-8497-0b584b1e3aff",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_bbac9fc6-220b-47f5-bf7c-1879e7f5a5a7",
+        "raw_id": "bbac9fc6-220b-47f5-bf7c-1879e7f5a5a7",
+        "order_num": 30,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q30.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "af44eb99-b30b-48dc-b789-225486566864",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "294ebdb3-1d6c-4bb4-b7a2-0adc71a0c939",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "01525ef1-ef33-4cf7-a11a-39ace6d15d06",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "afd723ba-86b6-4726-8820-bf63b3c51cd9",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_5b133485-b423-4cc1-9bce-eb8a9d025de1",
+        "raw_id": "5b133485-b423-4cc1-9bce-eb8a9d025de1",
+        "order_num": 31,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q31.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "cc2c56c3-73f2-4f3c-af0e-a74948565283",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "56a4c90d-f0e1-4649-90da-1b8da5d4736b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7d66c40f-4eb5-4405-ba29-872d85e779e8",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c3a30a29-e7e2-4034-8041-b1a4ad46513c",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_fc5e9618-f98f-4236-8214-3c06b180032f",
+        "raw_id": "fc5e9618-f98f-4236-8214-3c06b180032f",
+        "order_num": 32,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q32.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "9cff5f4e-740a-4412-ac80-8c885966dc82",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a4662713-a071-4de7-95cf-5eef6f8445d4",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6e1f6668-41f8-4a39-bf7e-3eb753e98f75",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "df85801b-e92d-434b-94b6-172167a39092",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_70b08d70-8b84-4134-9a5e-eba2bd2d5fdc",
+        "raw_id": "70b08d70-8b84-4134-9a5e-eba2bd2d5fdc",
+        "order_num": 33,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q33.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "e7856c2a-7754-4de5-bd2f-e0a28ebf6b64",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "179a8fa3-5600-4f6a-b6cb-c2879dfafb85",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b2ab1087-32d1-45bb-93f1-e722618ee098",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3d465847-000e-4af3-99ef-9ae578e5c58c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_30dd69a6-3fd3-4b8a-a8de-45be8795916d",
+        "raw_id": "30dd69a6-3fd3-4b8a-a8de-45be8795916d",
+        "order_num": 34,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q34.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "38334aa5-336b-49e2-9cbb-82948f80dfcc",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "55298e31-9ec8-4bfe-9baf-1fb774011500",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ccf60901-f2cc-4cfe-8c37-d4105404cb99",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f45a530f-7a52-4b9e-99bd-6b4fc7ba3587",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_7c1234d1-dde9-40d3-97db-6c7d5e92d088",
+        "raw_id": "7c1234d1-dde9-40d3-97db-6c7d5e92d088",
+        "order_num": 35,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q35.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0a536053-988e-4d05-83c7-bdb55f266a2f",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1f546132-4122-4d57-b5b0-4103bc6cdbb5",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "677a22cd-54c3-438b-8add-a95559aad550",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c119eb98-da68-41f1-8658-1cbc66b53fa5",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_013d5cea-6f18-4632-b10d-f4385d91ff2e",
+        "raw_id": "013d5cea-6f18-4632-b10d-f4385d91ff2e",
+        "order_num": 36,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q36.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b2682256-54ca-4545-a6c3-6516b9d55a93",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6104b9e9-6896-456f-9386-90a4018567f0",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3f86ba43-228c-47f9-bba9-d472e730dbf1",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "50b201e5-e484-432f-ae19-ceea246f1aee",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_4ec74444-b400-4f23-a120-3fc82b703b57",
+        "raw_id": "4ec74444-b400-4f23-a120-3fc82b703b57",
+        "order_num": 37,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q37.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "237720af-a129-41e1-926c-d820a606d127",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1de835bf-9760-4aa1-920e-9dea8aad4547",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "25efaa9b-9b3f-410c-afad-5770b2a9eadc",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "636f8e7e-c929-4d5f-83eb-aa139cb82011",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_bcc69dac-c4ad-4282-8909-37c2de48aefc",
+        "raw_id": "bcc69dac-c4ad-4282-8909-37c2de48aefc",
+        "order_num": 38,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q38.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7cdc6f0e-e17c-4d55-a2b3-6aaee0f10745",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dcc92312-938f-46e3-b298-0740983faaa1",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "45a072c6-4d03-42b8-9c1d-78fb6ff9bf4c",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "57cb47eb-0837-431f-bd2d-b355ae97d5ec",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_38bd0e80-b847-4cf0-82ef-6754de00a001",
+        "raw_id": "38bd0e80-b847-4cf0-82ef-6754de00a001",
+        "order_num": 39,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q39.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d925a616-3189-4740-8de4-322da7e13429",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "340aaca9-121f-4beb-ba17-2d281b7a7043",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "daaac861-9de0-484c-8dad-70ec1c135585",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "15557ee4-a924-427d-ae27-4efd397285e9",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_2bd8ed6d-151e-4f4f-9509-64f1d4149df1",
+        "raw_id": "2bd8ed6d-151e-4f4f-9509-64f1d4149df1",
+        "order_num": 40,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q40.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "84339b4e-b5bd-467d-aa55-f8ebf8936155",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b35dcf47-6b9f-4de4-8687-bf22626a148b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f20fef9a-c261-48ae-ba8b-61ba90551667",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1a616301-81a1-4525-92aa-58ac48616c1f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_7ce6a2ab-da7d-4e7d-b6f1-0a6e6e27a078",
+        "raw_id": "7ce6a2ab-da7d-4e7d-b6f1-0a6e6e27a078",
+        "order_num": 41,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q41.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c4000731-e3e5-4a2a-815d-69886c642ba0",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "cb359e02-8b3e-4c2c-8996-2f74b0061408",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bee2afea-adeb-4eb7-9d83-d498ba2518e7",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8a748f05-359e-49a6-b9c7-9a37565a89d6",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_3942fd22-4755-4a22-b526-6bc5c53d6ec5",
+        "raw_id": "3942fd22-4755-4a22-b526-6bc5c53d6ec5",
+        "order_num": 42,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q42.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "a6f5912a-c5e0-4629-92ab-f5e5f90cb866",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "bc52d847-f5d5-44e2-b35b-600618e7c1f2",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fe99ea5b-1a69-48ce-960f-fedc6b526185",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0ae636ba-a205-4ea0-beb7-2c3b39778098",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_036e76b0-0a15-4d01-bc33-eed0c02328ad",
+        "raw_id": "036e76b0-0a15-4d01-bc33-eed0c02328ad",
+        "order_num": 43,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q43.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "E",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "07e3a709-074a-4096-9a91-6a57d7bab489",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9ec418ba-9dfd-4a20-99e6-5961293abb6b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8a0415bd-7c9c-4b20-8d39-a8d774194a02",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "38750e6f-8e6a-47d7-891d-28e8162bf54e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9ece447a-bd8f-420e-9630-25bdb8e7fb17",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b5d90b6a-f850-4c64-a535-bb57cfd8ee1d",
+        "raw_id": "b5d90b6a-f850-4c64-a535-bb57cfd8ee1d",
+        "order_num": 44,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q44.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c56dcd4e-6710-4dcc-ab50-b830f83b1fbd",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "95ab4bba-39be-470b-9f9e-71375d45cb77",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4ca3818e-e898-422f-a938-eb10f2cf828f",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "263e900a-e1fc-49dc-968b-63b1b8e27bf7",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_422e25a0-8eba-4c8a-992a-305e88896faa",
+        "raw_id": "422e25a0-8eba-4c8a-992a-305e88896faa",
+        "order_num": 45,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q45.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "fdcc6adf-6db1-404f-b5b6-e9999ee51730",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "d1352a66-4295-4312-9ed7-5fb4e5db646c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "217d9054-8466-4423-b3e1-a376578f4561",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "43f63d71-9f1f-4486-805e-941f6f365e39",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_e99122ea-7857-49bf-a758-1d7e55492503",
+        "raw_id": "e99122ea-7857-49bf-a758-1d7e55492503",
+        "order_num": 46,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q46.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5dcff016-b0b1-4041-8f16-0a907f04206d",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6c602ad4-815b-41d3-9d7f-28761617e2a7",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a765e716-55ca-4d3f-a8ba-e0abccd8a506",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5b307735-93e8-43ea-aa39-29a443d713a0",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_6de8e00c-5c46-4e31-a38a-ab68e8c1e349",
+        "raw_id": "6de8e00c-5c46-4e31-a38a-ab68e8c1e349",
+        "order_num": 47,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q47.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "7144a896-d311-4d1c-899f-5385617639e3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "650ccd97-0a00-46a7-9f90-78cf80dc7617",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "659ba199-b73b-41dd-8271-c5a79a16e61d",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8ee11709-43a3-4c18-8f25-6852f4bda9c3",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_b3f06a86-7a97-406c-ac74-5099f7c40cc1",
+        "raw_id": "b3f06a86-7a97-406c-ac74-5099f7c40cc1",
+        "order_num": 48,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q48.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "1288f051-1492-4495-a593-ba0667c801cf",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "e0096d96-2715-48f1-be81-24dce61ed8b4",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7d991ebc-5de7-4604-a784-cfe92f54dfb0",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bc9ad9b8-33bf-4406-8614-a4a03b998f3c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_1159f04f-3157-4686-a22c-0d5b32e2356d",
+        "raw_id": "1159f04f-3157-4686-a22c-0d5b32e2356d",
+        "order_num": 49,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q49.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0b156aa7-36c1-46e7-9cfb-f2ad8283493b",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "9ed5b8f0-16fc-48b8-949c-fe82280a673d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "93e123d2-dc0c-4230-8494-869779c8fa96",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cc6726e6-f32a-4299-89f2-7d8eb06b2077",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "PRO192_SU25_FE_63a3dbe4-85b6-43b9-b869-d53a29ca8ba4",
+        "raw_id": "63a3dbe4-85b6-43b9-b869-d53a29ca8ba4",
+        "order_num": 50,
+        "exam_source": "Đề 10 (SU25 FE)",
+        "exam_code": "PRO192_SU25_FE",
+        "content": null,
+        "explanation": null,
+        "image_url": "images/su25_fe_q50.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b1ab7f97-f9de-4b4b-bd98-764ab716b07c",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3b508239-4a86-4f17-bc0d-9142e1ff1a2b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b2044400-a41e-4317-a691-e3dd3a41cfe2",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e9fb6b9a-f939-4859-b401-62a2cf81839e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          }
+        ]
       }
     ],
     "counts": {
-      "A": 310,
-      "D": 38,
-      "A, B": 10,
-      "C": 37,
-      "B": 45,
+      "A": 350,
+      "D": 42,
+      "A, B": 11,
+      "C": 38,
+      "B": 47,
       "A, C, D": 2,
       "A, B, C": 3,
-      "A, B, D": 3,
-      "E": 2,
+      "A, B, D": 4,
+      "E": 3,
       "A, D": 1,
       "B, D": 1
     },
-    "total": 452
+    "total": 502
   }
 ];
 if (typeof window !== 'undefined') { window.EXAMS_DATA = EXAMS_DATA; }
