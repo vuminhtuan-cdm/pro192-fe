@@ -23,7 +23,7 @@ exam_configs = [
         "id": "exam_2",
         "code": "PRO192_SP26_B5_FE_RE",
         "title": "Đề 2: Đề Thi FE - PRO192 - SP26 - B5 - FE - RE (Đề Thi Ảnh)",
-        "shortTitle": "Đề 2 (SP26 B5-RE Ảnh)",
+        "shortTitle": "Đề 2 (SP26 B5-RE)",
         "type": "image",
         "filename": "PRO192_SP26_B5_FE_RE.json"
     },
@@ -31,7 +31,7 @@ exam_configs = [
         "id": "exam_3",
         "code": "PRO192_SP26_RE",
         "title": "Đề 3: Đề Thi FE - PRO192 - SP26 - RE (Đề Thi Ảnh)",
-        "shortTitle": "Đề 3 (SP26 RE Ảnh)",
+        "shortTitle": "Đề 3 (SP26 RE)",
         "type": "image",
         "filename": "PRO192_SP26_RE.json"
     },
@@ -39,7 +39,7 @@ exam_configs = [
         "id": "exam_4",
         "code": "PRO192_SP26_B5_FE",
         "title": "Đề 4: Đề Thi FE - PRO192 - SP26 - B5 - FE (Đề Thi Ảnh)",
-        "shortTitle": "Đề 4 (SP26 B5-FE Ảnh)",
+        "shortTitle": "Đề 4 (SP26 B5-FE)",
         "type": "image",
         "filename": "PRO192_SP26_B5_FE.json"
     },
@@ -47,9 +47,33 @@ exam_configs = [
         "id": "exam_5",
         "code": "PRO192_SP26_FE",
         "title": "Đề 5: Đề Thi FE - PRO192 - SP26 - FE (Đề Thi Ảnh)",
-        "shortTitle": "Đề 5 (SP26 FE Ảnh)",
+        "shortTitle": "Đề 5 (SP26 FE)",
         "type": "image",
         "filename": "PRO192_SP26_FE.json"
+    },
+    {
+        "id": "exam_6",
+        "code": "PRO192_FA25_RE",
+        "title": "Đề 6: Đề Thi FE - PRO192 - FA25 - RE (55 câu)",
+        "shortTitle": "Đề 6 (FA25 RE)",
+        "type": "image",
+        "filename": "PRO192_FA25_RE.json"
+    },
+    {
+        "id": "exam_7",
+        "code": "PRO192_FA25_FINAL",
+        "title": "Đề 7: Đề Thi FE - PRO192 - FA25 - Final Exam (50 câu)",
+        "shortTitle": "Đề 7 (FA25 Final)",
+        "type": "image",
+        "filename": "PRO192_FA25_FINAL.json"
+    },
+    {
+        "id": "exam_8",
+        "code": "PRO192_SU25_RE",
+        "title": "Đề 8: Đề Thi FE - PRO192 - SU25 - RE (47 câu)",
+        "shortTitle": "Đề 8 (SU25 RE)",
+        "type": "image",
+        "filename": "PRO192_SU25_RE.json"
     }
 ]
 

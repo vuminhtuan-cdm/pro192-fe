@@ -1344,3 +1344,23 @@ header {
   word-break: break-word;
 }
 
+/* Image fallback state when image is pending sync */
+.q-image-wrap.img-load-error {
+  cursor: default !important;
+  background: rgba(30, 41, 59, 0.6);
+  border: 2px dashed rgba(148, 163, 184, 0.35);
+  border-radius: var(--radius-md);
+  padding: 24px 16px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.img-error-badge {
+  color: var(--text-main);
+  line-height: 1.6;
+}
+.img-error-badge strong {
+  color: var(--primary);
+  font-size: 0.95rem;
+}
+
+

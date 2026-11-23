@@ -35,6 +35,25 @@ let practiceState = {
   isFinished: false
 };
 
+function handleImgError(img) {
+  img.style.display = 'none';
+  const parent = img.parentElement;
+  if (parent) {
+    parent.classList.add('img-load-error');
+    parent.onclick = null;
+    parent.removeAttribute('title');
+    const hint = parent.querySelector('.q-image-hint');
+    if (hint) hint.style.display = 'none';
+    if (!parent.querySelector('.img-error-badge')) {
+      const badge = document.createElement('div');
+      badge.className = 'img-error-badge';
+      badge.innerHTML = '🖼️ <strong>Ảnh đề thi đang chờ cập nhật đồng bộ từ máy chủ</strong><br><small style="color: #64748b; margin-top: 4px; display: inline-block;">Hệ thống đang chuẩn bị ảnh cho câu hỏi này. Bạn vẫn có thể chọn đáp án A, B, C, D để làm bài bình thường!</small>';
+      parent.appendChild(badge);
+    }
+  }
+}
+window.handleImgError = handleImgError;
+
 function getExams() {
   if (typeof window !== 'undefined' && window.EXAMS_DATA && window.EXAMS_DATA.length > 0) {
     return window.EXAMS_DATA;
@@ -101,6 +120,13 @@ function renderHeaderTabs() {
   if (exams.length === 0) return;
 
   container.innerHTML = '';
+
+  const countEl = document.getElementById('headerExamCount');
+  if (countEl) {
+    const singleCount = exams.filter(e => !e.isAll).length;
+    const totalAll = exams.find(e => e.isAll)?.total || 0;
+    countEl.textContent = `${singleCount} Đề FE (${totalAll} câu)`;
+  }
 
   exams.forEach((exam, idx) => {
     const btn = document.createElement('button');
@@ -370,7 +396,7 @@ function renderStudyQuestionCard(q, displayNum) {
 
       ${q.image_url ? `
         <div class="q-image-wrap" onclick="openLightbox('${q.image_url}')" title="Bấm vào để phóng to hình ảnh">
-          <img src="${q.image_url}" loading="lazy" alt="Câu hỏi ${displayNum}">
+          <img src="${q.image_url}" loading="lazy" alt="Câu hỏi ${displayNum}" onerror="handleImgError(this)">
           <div class="q-image-hint">🔍 Bấm vào ảnh để phóng to toàn màn hình</div>
         </div>
       ` : ''}
@@ -571,7 +597,7 @@ function renderPracticeQuestionCard(q, displayNum) {
 
       ${q.image_url ? `
         <div class="q-image-wrap" onclick="openLightbox('${q.image_url}')" title="Bấm vào để phóng to hình ảnh">
-          <img src="${q.image_url}" loading="lazy" alt="Câu hỏi ${displayNum}">
+          <img src="${q.image_url}" loading="lazy" alt="Câu hỏi ${displayNum}" onerror="handleImgError(this)">
           <div class="q-image-hint">🔍 Bấm vào ảnh để phóng to toàn màn hình</div>
         </div>
       ` : ''}
@@ -998,7 +1024,7 @@ function renderExamQuestionCard(q, displayNum) {
 
       ${q.image_url ? `
         <div class="q-image-wrap" onclick="openLightbox('${q.image_url}')" title="Bấm vào để phóng to hình ảnh">
-          <img src="${q.image_url}" loading="lazy" alt="Câu hỏi ${displayNum}">
+          <img src="${q.image_url}" loading="lazy" alt="Câu hỏi ${displayNum}" onerror="handleImgError(this)">
           <div class="q-image-hint">🔍 Bấm vào ảnh để phóng to toàn màn hình</div>
         </div>
       ` : ''}
@@ -1302,7 +1328,7 @@ function renderReviewQuestionCard(q, displayNum) {
 
       ${q.image_url ? `
         <div class="q-image-wrap" onclick="openLightbox('${q.image_url}')" title="Bấm vào để phóng to hình ảnh">
-          <img src="${q.image_url}" loading="lazy" alt="Câu hỏi ${displayNum}">
+          <img src="${q.image_url}" loading="lazy" alt="Câu hỏi ${displayNum}" onerror="handleImgError(this)">
           <div class="q-image-hint">🔍 Bấm vào ảnh để phóng to toàn màn hình</div>
         </div>
       ` : ''}
