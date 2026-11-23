@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "a927dc84-1f76-4706-b05b-dc82a6e5c291",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 1,
+    "content": "Which method is used to convert an array to a List in Java?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:45.1968+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "eb609990-fca0-4f05-9c25-7a9b40f838c1",
+        "label": "A",
+        "content": "Arrays.asList()",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "a927dc84-1f76-4706-b05b-dc82a6e5c291"
+      },
+      {
+        "id": "9ad77f56-cdf4-4857-934f-7ebb13fbbd38",
+        "label": "B",
+        "content": "Arrays.toList()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a927dc84-1f76-4706-b05b-dc82a6e5c291"
+      },
+      {
+        "id": "97b9abb2-bd84-44a9-99aa-83e1587085ce",
+        "label": "C",
+        "content": "Arrays.convertToList()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a927dc84-1f76-4706-b05b-dc82a6e5c291"
+      },
+      {
+        "id": "84322efd-2882-4e8c-b1de-c601c5e9e6dc",
+        "label": "D",
+        "content": "Arrays.arrayToList()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a927dc84-1f76-4706-b05b-dc82a6e5c291"
+      }
+    ]
+  },
+  {
+    "id": "746e5f01-4918-435e-a5bc-1769d71aa184",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 2,
+    "content": "Which of the following is/are advantages of packages?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:45.499706+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "a44c764d-5bcd-42e8-a770-8935fdb000b0",
+        "label": "A",
+        "content": "Packages avoid name clashes",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "746e5f01-4918-435e-a5bc-1769d71aa184"
+      },
+      {
+        "id": "a9991279-98a6-4ed5-8f26-35b498cd5d96",
+        "label": "B",
+        "content": "Classes, even though they are visible outside their package, can have fields visible to packages only",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "746e5f01-4918-435e-a5bc-1769d71aa184"
+      },
+      {
+        "id": "48c9c4d4-82f2-47fb-94ec-b66f4a9a0b78",
+        "label": "C",
+        "content": "We can have hidden classes that are used by the packages, but not visible outside.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "746e5f01-4918-435e-a5bc-1769d71aa184"
+      },
+      {
+        "id": "c1434c3f-fb10-438c-b3f1-2e7e958bb550",
+        "label": "D",
+        "content": "All of the mentioned",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "746e5f01-4918-435e-a5bc-1769d71aa184"
+      }
+    ]
+  },
+  {
+    "id": "205ca8a1-2390-4728-8683-993c49c2c28c",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 3,
+    "content": "A Java source code will be compiled to the file in which of the following extensions?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:45.797794+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "96bc47e0-c819-4ad9-96f8-1805d9e9630b",
+        "label": "A",
+        "content": ".class",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "205ca8a1-2390-4728-8683-993c49c2c28c"
+      },
+      {
+        "id": "1447c5e2-f2e6-40a0-9da5-3faef4f635d4",
+        "label": "B",
+        "content": ".java",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "205ca8a1-2390-4728-8683-993c49c2c28c"
+      },
+      {
+        "id": "4b88154f-b6e9-4fdf-894b-935bca24a3cc",
+        "label": "C",
+        "content": ".exe",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "205ca8a1-2390-4728-8683-993c49c2c28c"
+      },
+      {
+        "id": "cf7eb136-bcae-46b6-b728-a0efe0f2c4f3",
+        "label": "D",
+        "content": ".bat",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "205ca8a1-2390-4728-8683-993c49c2c28c"
+      }
+    ]
+  },
+  {
+    "id": "936832db-b3ab-4060-9d58-14f3649ebe8f",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 4,
+    "content": "Which of the following statements is used to add the content to an existing text file?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:46.095597+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "dc2886bd-206e-4979-992d-4344a2b06a8d",
+        "label": "A",
+        "content": "Set the append parameter to true in the constructor of the FileWriter object",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "936832db-b3ab-4060-9d58-14f3649ebe8f"
+      },
+      {
+        "id": "df34e9a4-b77e-4b6d-94e3-9049e9f80a17",
+        "label": "B",
+        "content": "Set the append parameter to true in the constructor of the File object",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "936832db-b3ab-4060-9d58-14f3649ebe8f"
+      },
+      {
+        "id": "7e90bf7b-0073-4837-99ce-b58b631aa03b",
+        "label": "C",
+        "content": "Set append parameter of true in the constructor of OutputStream object",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "936832db-b3ab-4060-9d58-14f3649ebe8f"
+      },
+      {
+        "id": "5a7ae81e-86f7-428e-850e-fb71e095668a",
+        "label": "D",
+        "content": "All of the others",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "936832db-b3ab-4060-9d58-14f3649ebe8f"
+      }
+    ]
+  },
+  {
+    "id": "e8d6ca80-ba75-466d-ad7c-22165efba2e5",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 5,
+    "content": "Which of the following is NOT a basic component of a computer?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:46.393697+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "737aac87-80fe-43cf-ae9f-cd702fd2f47b",
+        "label": "A",
+        "content": "CPU",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d6ca80-ba75-466d-ad7c-22165efba2e5"
+      },
+      {
+        "id": "1bc5b77a-5175-45a9-965a-b55010863f61",
+        "label": "B",
+        "content": "Memory",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d6ca80-ba75-466d-ad7c-22165efba2e5"
+      },
+      {
+        "id": "0c2056c5-af5a-44b1-8cd9-a18cb90ee954",
+        "label": "C",
+        "content": "Monitor",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d6ca80-ba75-466d-ad7c-22165efba2e5"
+      },
+      {
+        "id": "d2e4dc05-fb58-4ac4-85d8-86cd521708a4",
+        "label": "D",
+        "content": "Refrigerator",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e8d6ca80-ba75-466d-ad7c-22165efba2e5"
+      }
+    ]
+  },
+  {
+    "id": "7a8e247b-9869-4a17-8e1b-cf2a91dc8797",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 6,
+    "content": "What is the output of the following Java program?\n\n```\nclass A {\n    public static void show() {\n        System.out.println(\"A::show\");\n    }\n}\n```\n\n```\nclass B extends A {\n    public static void show() {\n        System.out.println(\"B::show\");\n    }\n}\n```\n\n```\nclass Main {\n    public static void main(String[] args) {\n        A b = new B();\n        b.show();\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:46.688303+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "8a4e07b1-73d7-48e5-803d-f3cc3a412663",
+        "label": "A",
+        "content": "A::show",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "7a8e247b-9869-4a17-8e1b-cf2a91dc8797"
+      },
+      {
+        "id": "fa84e458-27bf-4e96-908f-30a5867d33a4",
+        "label": "B",
+        "content": "B::show",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7a8e247b-9869-4a17-8e1b-cf2a91dc8797"
+      },
+      {
+        "id": "d4ee5eb0-85c1-40c5-9b46-9014542e91e8",
+        "label": "C",
+        "content": "AB::show",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7a8e247b-9869-4a17-8e1b-cf2a91dc8797"
+      },
+      {
+        "id": "f6d6740f-138a-40af-88aa-28f61aa413cf",
+        "label": "D",
+        "content": "Runtime error",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7a8e247b-9869-4a17-8e1b-cf2a91dc8797"
+      }
+    ]
+  },
+  {
+    "id": "11c2d8ce-93e7-4196-a1ba-4e3282125e35",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 7,
+    "content": "What is the output of the code snippet?\n\n```\npublic class Test {\n    public static void main(String[] args) {\n        int[] a = new int[5];\n        System.out.println(a[1]);\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:46.987337+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "1ad1f5b4-e19d-4ff8-9a1f-3041c736fb0b",
+        "label": "A",
+        "content": "0",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "11c2d8ce-93e7-4196-a1ba-4e3282125e35"
+      },
+      {
+        "id": "dcbe585f-47ee-4001-8e3c-07a0df727847",
+        "label": "B",
+        "content": "1",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "11c2d8ce-93e7-4196-a1ba-4e3282125e35"
+      },
+      {
+        "id": "7885d801-ba6a-464f-9d7d-6c86086b1647",
+        "label": "C",
+        "content": "null",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "11c2d8ce-93e7-4196-a1ba-4e3282125e35"
+      },
+      {
+        "id": "d3448dd8-8eeb-4b88-a1e7-19923c1e12a1",
+        "label": "D",
+        "content": "[I@15db9742]",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "11c2d8ce-93e7-4196-a1ba-4e3282125e35"
+      }
+    ]
+  },
+  {
+    "id": "761293d3-b938-4613-89de-6ac200b58daa",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 8,
+    "content": "Which of the following statements about reference types in Java is TRUE?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:47.28472+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "fc9647c4-04c2-4716-ac15-68a5b657d194",
+        "label": "A",
+        "content": "Reference types hold actual data values, not addresses",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "761293d3-b938-4613-89de-6ac200b58daa"
+      },
+      {
+        "id": "f3ff01e4-fabf-4241-bd9f-e1cb4002418d",
+        "label": "B",
+        "content": "The default value for a reference variable is 0",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "761293d3-b938-4613-89de-6ac200b58daa"
+      },
+      {
+        "id": "7cf199cc-279a-44d9-ab4a-57508253117d",
+        "label": "C",
+        "content": "Arrays are considered primitive types.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "761293d3-b938-4613-89de-6ac200b58daa"
+      },
+      {
+        "id": "7483df87-ad43-4ebf-97f6-1d0a9f5cfcdb",
+        "label": "D",
+        "content": "A reference variable stores the address of an object in memory.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "761293d3-b938-4613-89de-6ac200b58daa"
+      }
+    ]
+  },
+  {
+    "id": "8046d005-6f9b-4827-acef-e69043c33556",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 9,
+    "content": "Choose multiple correct answers.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:47.588629+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "1070dff7-10e5-49d7-859a-37d435220062",
+        "label": "A",
+        "content": "Inheritance allows a class to inherit the properties and methods of another class",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "8046d005-6f9b-4827-acef-e69043c33556"
+      },
+      {
+        "id": "7a23307c-b889-49cb-9ccc-4d8f0a2fcd92",
+        "label": "B",
+        "content": "The keyword extends is used to indicate inheritance in Java. It is used in the declaration of a subclass to specify the superclass that it is inheriting from.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "8046d005-6f9b-4827-acef-e69043c33556"
+      },
+      {
+        "id": "ebdb2bc8-b57a-43b1-bfa2-8db4405d8261",
+        "label": "C",
+        "content": "A subclass can access the private members of the superclass",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "8046d005-6f9b-4827-acef-e69043c33556"
+      },
+      {
+        "id": "41e481e7-44de-47f7-b800-bcdc33dd4525",
+        "label": "D",
+        "content": "Java supports both multiple inheritance of classes and interfaces",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "8046d005-6f9b-4827-acef-e69043c33556"
+      }
+    ]
+  },
+  {
+    "id": "03c7023b-15d0-45c2-b13e-1afbd99921e2",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 10,
+    "content": "Given the following code, what will be the output?\n\n```\nclass Animal {\n    void sound() {\n        System.out.println(\"Animal sound\");\n    }\n}\n```\n\n```\nclass Dog extends Animal {\n    void sound() {\n        System.out.println(\"Dog barks\");\n    }\n}\n```\n\n```\npublic class Test {\n    public static void main(String[] args) {\n        Animal a = new Dog();\n        a.sound();\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:47.877972+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "9d71a86f-cc8e-4abd-b8aa-6b860b2e730f",
+        "label": "A",
+        "content": "Compilation Error",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03c7023b-15d0-45c2-b13e-1afbd99921e2"
+      },
+      {
+        "id": "45c60df2-e37b-4a4c-b674-acc43771146e",
+        "label": "B",
+        "content": "Animal sound",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03c7023b-15d0-45c2-b13e-1afbd99921e2"
+      },
+      {
+        "id": "51ca0099-9aa5-4bbf-bb56-34db6b61c187",
+        "label": "C",
+        "content": "Runtime Error",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03c7023b-15d0-45c2-b13e-1afbd99921e2"
+      },
+      {
+        "id": "28a13a6e-6824-48bb-8475-5fdb4eb9e150",
+        "label": "D",
+        "content": "Dog barks",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "03c7023b-15d0-45c2-b13e-1afbd99921e2"
+      }
+    ]
+  },
+  {
+    "id": "9db99113-a4d8-49b4-99a3-08cae7218e9e",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 11,
+    "content": "Which of the following classes is used for shuffling an ArrayList in Java?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:48.18096+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "68a35f92-cea6-446e-a4af-a86c84e27742",
+        "label": "A",
+        "content": "Collections",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "9db99113-a4d8-49b4-99a3-08cae7218e9e"
+      },
+      {
+        "id": "2fafb432-fbff-40e3-8f37-ccb0a67b29dc",
+        "label": "B",
+        "content": "CollectionList",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "9db99113-a4d8-49b4-99a3-08cae7218e9e"
+      },
+      {
+        "id": "66330ac7-11fd-4bdf-a7a5-fcf468a400a1",
+        "label": "C",
+        "content": "Arrays",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "9db99113-a4d8-49b4-99a3-08cae7218e9e"
+      },
+      {
+        "id": "89f16fb6-2a08-4fd4-b299-dd9bad73b7ab",
+        "label": "D",
+        "content": "Array.Util",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "9db99113-a4d8-49b4-99a3-08cae7218e9e"
+      }
+    ]
+  },
+  {
+    "id": "22e048ab-4d61-4e8f-8ed6-fd89b0ad2722",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 12,
+    "content": "What will be the output of the following code?\n\n```\npublic class Test10 {\n    public static void main(String[] args) {\n        Integer x = new Integer(5);\n        Integer y = new Integer(10);\n        System.out.println((String)(x + y));\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:48.479243+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "514f2c01-4a6e-47af-a6dd-e9b40612002d",
+        "label": "A",
+        "content": "15",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "22e048ab-4d61-4e8f-8ed6-fd89b0ad2722"
+      },
+      {
+        "id": "3a64c18c-1e5c-4db4-b94e-9aac53f38a7c",
+        "label": "B",
+        "content": "510",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "22e048ab-4d61-4e8f-8ed6-fd89b0ad2722"
+      },
+      {
+        "id": "0ee0f9d1-13a1-4689-b2fd-a748ad0beca9",
+        "label": "C",
+        "content": "Runtime error",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "22e048ab-4d61-4e8f-8ed6-fd89b0ad2722"
+      },
+      {
+        "id": "db311c4f-93a6-43e1-99d9-4e97e4a4008a",
+        "label": "D",
+        "content": "Compiler Error",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "22e048ab-4d61-4e8f-8ed6-fd89b0ad2722"
+      }
+    ]
+  },
+  {
+    "id": "6ef87de7-f006-4a99-bac3-82c7ff859337",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 13,
+    "content": "What must be implemented when storing custom objects in a TreeSet to ensure proper ordering?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:48.775879+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "ef83db1a-7515-4c54-8083-16b66ea23b6c",
+        "label": "A",
+        "content": "The compareTo() method from the Comparable interface.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6ef87de7-f006-4a99-bac3-82c7ff859337"
+      },
+      {
+        "id": "0b7502bf-1515-49f8-8e40-4ac61f95a8a5",
+        "label": "B",
+        "content": "The equals() and hashCode() methods must be overridden to maintain consistent ordering behavior.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6ef87de7-f006-4a99-bac3-82c7ff859337"
+      },
+      {
+        "id": "bdf5c7f2-1c9d-46b1-8a2e-7c9af98076af",
+        "label": "C",
+        "content": "A custom sorting algorithm that handles the specific data types and their natural ordering requirements.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6ef87de7-f006-4a99-bac3-82c7ff859337"
+      },
+      {
+        "id": "6dc5e5b6-d1b4-462c-bc7e-9081a17c32f5",
+        "label": "D",
+        "content": "The toString() method must return values that can be compared lexicographically for automatic sorting.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6ef87de7-f006-4a99-bac3-82c7ff859337"
+      }
+    ]
+  },
+  {
+    "id": "13d3d10b-e353-4a8f-aa2f-ffb79ad81449",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 14,
+    "content": "Can a subclass override a method that is declared as final in its superclass?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:49.07239+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "57cc5a1a-3313-4eb4-8f23-f9bcdf074fd9",
+        "label": "A",
+        "content": "Yes, under certain circumstances and a warning will be issued by the compiler.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "13d3d10b-e353-4a8f-aa2f-ffb79ad81449"
+      },
+      {
+        "id": "522af321-2e50-42d5-a403-7d276bddca1a",
+        "label": "B",
+        "content": "Yes, but a warning will be issued by the compiler.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "13d3d10b-e353-4a8f-aa2f-ffb79ad81449"
+      },
+      {
+        "id": "153fb72f-2818-446f-aa2d-617b7f2d7bff",
+        "label": "C",
+        "content": "No, a final method cannot be overridden by any subclass.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "13d3d10b-e353-4a8f-aa2f-ffb79ad81449"
+      },
+      {
+        "id": "e96e67ad-b2cd-44ce-b93d-cf82d7b44c71",
+        "label": "D",
+        "content": "Only if the subclass is in a different package.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "13d3d10b-e353-4a8f-aa2f-ffb79ad81449"
+      }
+    ]
+  },
+  {
+    "id": "18d3e3e9-b26d-4504-abeb-a6cccd1abc56",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 15,
+    "content": "How do you check if a File object refers to a file (NOT a directory) in Java?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:49.369646+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "350686fe-13e9-4f14-af89-09b0e1e0c3c5",
+        "label": "A",
+        "content": "isFile()",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "18d3e3e9-b26d-4504-abeb-a6cccd1abc56"
+      },
+      {
+        "id": "71df600e-d73a-46fb-8abc-62513c1f8b68",
+        "label": "B",
+        "content": "checkFile()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "18d3e3e9-b26d-4504-abeb-a6cccd1abc56"
+      },
+      {
+        "id": "90afaf28-4053-425b-b2f7-3540a2726388",
+        "label": "C",
+        "content": "isNotDirectory()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "18d3e3e9-b26d-4504-abeb-a6cccd1abc56"
+      },
+      {
+        "id": "d5934b6c-636d-4763-9043-b5fda7ff25d8",
+        "label": "D",
+        "content": "notIsDirectory()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "18d3e3e9-b26d-4504-abeb-a6cccd1abc56"
+      }
+    ]
+  },
+  {
+    "id": "0cdd61bb-3125-4fdf-a9cb-b1447be5e941",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 16,
+    "content": "To use the ObjectOutputStream object for writing an object to a destination file, which interface should the target class implement?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:49.660979+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "24dd65ff-1a7f-4e66-b0c8-253cd987e76c",
+        "label": "A",
+        "content": "Serializable",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "0cdd61bb-3125-4fdf-a9cb-b1447be5e941"
+      },
+      {
+        "id": "cbde2a46-4e26-49f6-9334-41812dbc7ad1",
+        "label": "B",
+        "content": "Interpretable",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0cdd61bb-3125-4fdf-a9cb-b1447be5e941"
+      },
+      {
+        "id": "1435d701-cd2c-4d1e-8a1f-054a611c4231",
+        "label": "C",
+        "content": "Writable",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0cdd61bb-3125-4fdf-a9cb-b1447be5e941"
+      },
+      {
+        "id": "47eab66b-3aac-4c07-af25-346e3b1d48d1",
+        "label": "D",
+        "content": "Comparable",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0cdd61bb-3125-4fdf-a9cb-b1447be5e941"
+      }
+    ]
+  },
+  {
+    "id": "d559b18b-cdab-4c24-9c62-79a242e07eb7",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 17,
+    "content": "What will be the output of the following Java code?\n\nimport java.util.*;\n\n```\npublic class Test {\n    public static void main(String[] args) {\n        LinkedList<Integer> lst = new LinkedList<>();\n        lst.add(10);\n        lst.addFirst(5);\n        lst.addLast(15);\n        System.out.println(lst);\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:49.959967+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "b7fc873a-2d9f-4052-8833-e712503fa04d",
+        "label": "A",
+        "content": "[5, 10, 15]",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "d559b18b-cdab-4c24-9c62-79a242e07eb7"
+      },
+      {
+        "id": "8ccc5f44-b205-46d5-be7f-223cc03c95ca",
+        "label": "B",
+        "content": "[10, 5, 15]",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d559b18b-cdab-4c24-9c62-79a242e07eb7"
+      },
+      {
+        "id": "4e46e9e5-18be-4767-886e-2177b59c5395",
+        "label": "C",
+        "content": "[5, 15, 10]",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d559b18b-cdab-4c24-9c62-79a242e07eb7"
+      },
+      {
+        "id": "b36ecad3-77bc-4188-a709-96ac6832e64c",
+        "label": "D",
+        "content": "[10, 15, 5]",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d559b18b-cdab-4c24-9c62-79a242e07eb7"
+      }
+    ]
+  },
+  {
+    "id": "a38798e5-5442-4585-83b4-01081b09d194",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 18,
+    "content": "Which of the following statements about the Java language is true?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:50.266772+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c7ea9747-9dbe-4138-8109-4c3ef3e98e44",
+        "label": "A",
+        "content": "Java language is case-sensitive.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "a38798e5-5442-4585-83b4-01081b09d194"
+      },
+      {
+        "id": "031253e7-a462-429b-8bf7-5b25e8a26337",
+        "label": "B",
+        "content": "Java is not a fully object-oriented language.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a38798e5-5442-4585-83b4-01081b09d194"
+      },
+      {
+        "id": "db24636b-c772-43d4-a1e9-abcd2cf9d2e6",
+        "label": "C",
+        "content": "Using a colon to end the command.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a38798e5-5442-4585-83b4-01081b09d194"
+      },
+      {
+        "id": "a9ec217e-6031-4ba1-a986-fca2750b257e",
+        "label": "D",
+        "content": "The Java code only runs on the Windows platform.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a38798e5-5442-4585-83b4-01081b09d194"
+      }
+    ]
+  },
+  {
+    "id": "1636d3c1-0169-45b6-a421-1e27e7f9b392",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 19,
+    "content": "Given this Employee class:\n\n```\npublic class Employee {\n    private String id;\n    private String name;\n    private double salary;\n```\n\n```\n    public void setSalary(double s) {\n        this.salary = s;\n    }\n    public double getSalary() {\n        return salary;\n    }\n    public String getId() {\n        return id;\n    }\n```\n\n}\nand this main method:\n\n```\npublic static void main(String[] args) {\n    Employee e = new Employee();\n    e.setSalary(1000);\n    try {\n        if (e.getSalary() > 500 && e.getId().equals(\"NV001\")) {\n            System.out.println(\"This is a manager\");\n        }\n}\ncatch (Exception ex) {\n        System.out.println(\"Some error occurred!\");\n    }\n}\n```\n\nWhat will be printed on the screen after running the main method?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:50.569871+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c83558c9-7ec0-4f9f-809d-04744acf62d7",
+        "label": "A",
+        "content": "This is a manager",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1636d3c1-0169-45b6-a421-1e27e7f9b392"
+      },
+      {
+        "id": "07ff3029-b17f-4241-8e2e-127983d00e42",
+        "label": "B",
+        "content": "Some error occurred!",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "1636d3c1-0169-45b6-a421-1e27e7f9b392"
+      },
+      {
+        "id": "445ac826-fb9e-44c6-8d8f-c4fd953d31bf",
+        "label": "C",
+        "content": "The code doesn't compile.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1636d3c1-0169-45b6-a421-1e27e7f9b392"
+      },
+      {
+        "id": "5e420d28-d3ed-4471-9420-3e315a10c9d3",
+        "label": "D",
+        "content": "Nothing will be printed (Blank output)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1636d3c1-0169-45b6-a421-1e27e7f9b392"
+      }
+    ]
+  },
+  {
+    "id": "e3929e0a-c760-410f-9fb2-704e22ccd750",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 20,
+    "content": "What is the output of the following Java program?\n\n```\nclass A {\n    public int x = 1;\n    public void setX(int a) {\n        x = a;\n    }\n}\n```\n\n```\nclass B extends A {\n    public int getB() {\n        setX(2);\n        return x;\n    }\n}\n```\n\n```\npublic class Main {\n    public static void main(String[] args) {\n        A a = new A();\n        B b = new B();\n        System.out.println(a.x + \" \" + b.getB());\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:50.86597+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "b963dfca-43e1-4973-b425-333553b623c4",
+        "label": "A",
+        "content": "1 2",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e3929e0a-c760-410f-9fb2-704e22ccd750"
+      },
+      {
+        "id": "18b9035b-3fb2-4a14-83f3-4018a447ebc7",
+        "label": "B",
+        "content": "2 1",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e3929e0a-c760-410f-9fb2-704e22ccd750"
+      },
+      {
+        "id": "c017d0f1-1cc6-4d66-a02f-f3f6c7634d8c",
+        "label": "C",
+        "content": "1 1",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e3929e0a-c760-410f-9fb2-704e22ccd750"
+      },
+      {
+        "id": "c57b3a9d-156e-4be3-a3e3-8cc068405f2e",
+        "label": "D",
+        "content": "2 2",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e3929e0a-c760-410f-9fb2-704e22ccd750"
+      }
+    ]
+  },
+  {
+    "id": "bbce5449-6d68-4052-9d26-9e39ac566622",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 21,
+    "content": "What is the output of the following Java program?\n\n```\ninterface IA {\n    void show();\n}\n```\n\n```\ninterface IB {\n    void show();\n}\n```\n\n```\nclass MyClass implements IA, IB {\n    @Override\n    public void show() {\n        System.out.println(\"@MyClass\");\n    }\n}\n```\n\n```\npublic class Main {\n    public static void main(String args[]) {\n        IA objA = new MyClass();\n        objA.show();\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:51.167359+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "59d0e9a7-2a8b-4b51-9c6d-4e7d987d96ff",
+        "label": "A",
+        "content": "@MyClass",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "bbce5449-6d68-4052-9d26-9e39ac566622"
+      },
+      {
+        "id": "3274686a-a746-400a-8075-5d7128a6a68e",
+        "label": "B",
+        "content": "Runtime error in the statement objA.show();",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbce5449-6d68-4052-9d26-9e39ac566622"
+      },
+      {
+        "id": "dcf707b1-ee00-48bd-ae2c-8d74b0f77d93",
+        "label": "C",
+        "content": "Compile error in the statement IA objA = new MyClass();",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbce5449-6d68-4052-9d26-9e39ac566622"
+      },
+      {
+        "id": "966fb5ee-d4ce-4b31-9c6f-c672d77ca800",
+        "label": "D",
+        "content": "None of the others",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbce5449-6d68-4052-9d26-9e39ac566622"
+      }
+    ]
+  },
+  {
+    "id": "69b9c987-1dba-4606-aca2-0fbb201fc403",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 22,
+    "content": "What is the output of the following code snippet?\n\n```\nString fName = \"test.txt\";\nFileInputStream fs = new FileInputStream(fName);\nbyte[] lst = new byte[100];\nfs.read(lst, 0, 4);\n```\n\nSystem.out.format(\"%c%n\", lst[1]);Assume test.txt has the content as follows: 01234567890",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:51.455381+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "fad20b37-8f03-4ed3-8231-8d40de3491a1",
+        "label": "A",
+        "content": "1",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "69b9c987-1dba-4606-aca2-0fbb201fc403"
+      },
+      {
+        "id": "a9f32d0f-c704-4e2d-b1fe-fc11a69d12eb",
+        "label": "B",
+        "content": "0",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "69b9c987-1dba-4606-aca2-0fbb201fc403"
+      },
+      {
+        "id": "1683ec16-0b45-4b33-aa93-91606f41e152",
+        "label": "C",
+        "content": "2",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "69b9c987-1dba-4606-aca2-0fbb201fc403"
+      },
+      {
+        "id": "5e5495ef-573c-446b-b473-d2dfab6048e7",
+        "label": "D",
+        "content": "3",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "69b9c987-1dba-4606-aca2-0fbb201fc403"
+      }
+    ]
+  },
+  {
+    "id": "1a388005-716c-4bdd-a5e5-cc02660eb141",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 23,
+    "content": "What happens if you add a duplicate element to a TreeSet?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:51.758017+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "4d1a6465-397f-4a2c-b0e1-a3a5f784e76c",
+        "label": "A",
+        "content": "It is added, and the set will contain two identical elements.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1a388005-716c-4bdd-a5e5-cc02660eb141"
+      },
+      {
+        "id": "cd6413c8-b7b0-41d6-ba1c-faf313765942",
+        "label": "B",
+        "content": "It replaces the existing element.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1a388005-716c-4bdd-a5e5-cc02660eb141"
+      },
+      {
+        "id": "87139602-8812-40fe-b14d-b3983cf51bcb",
+        "label": "C",
+        "content": "It is ignored, and the set remains unchanged.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "1a388005-716c-4bdd-a5e5-cc02660eb141"
+      },
+      {
+        "id": "1c476070-75de-4830-bba9-03cbb1ef2a74",
+        "label": "D",
+        "content": "A runtime exception is thrown.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1a388005-716c-4bdd-a5e5-cc02660eb141"
+      }
+    ]
+  },
+  {
+    "id": "24f5d750-5e8f-4af7-91ee-df8fa6a1de86",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 24,
+    "content": "What is the output of the following Java code?\n\n```\npublic class StringTest {\n    public static void main(String[] args) {\n        String s1 = \"hello\";\n        String s2 = new String(\"hello\");\n        System.out.println(s1 == s2);\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:52.061591+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "237012a5-f5d4-43cd-9500-3b676dcb8a3a",
+        "label": "A",
+        "content": "true",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "24f5d750-5e8f-4af7-91ee-df8fa6a1de86"
+      },
+      {
+        "id": "9103d80c-8af6-493f-b7ce-047ce3289284",
+        "label": "B",
+        "content": "false",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "24f5d750-5e8f-4af7-91ee-df8fa6a1de86"
+      },
+      {
+        "id": "9bb0e48a-078c-477b-af38-7ad1dabf2e85",
+        "label": "C",
+        "content": "Compile-time error",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "24f5d750-5e8f-4af7-91ee-df8fa6a1de86"
+      },
+      {
+        "id": "dc7d205f-0aa8-4455-be5f-0e10933290d8",
+        "label": "D",
+        "content": "null",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "24f5d750-5e8f-4af7-91ee-df8fa6a1de86"
+      }
+    ]
+  },
+  {
+    "id": "7ee60dde-92d3-4640-8dda-bf6a488546d1",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 25,
+    "content": "What is the primary purpose of the this keyword in Java?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:52.359474+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "471a9cf3-b25b-419d-a131-c946e95553cd",
+        "label": "A",
+        "content": "It refers to the current object instance.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "7ee60dde-92d3-4640-8dda-bf6a488546d1"
+      },
+      {
+        "id": "4685931a-00ce-4618-99c0-7b8e397558d9",
+        "label": "B",
+        "content": "It refers to the superclass.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7ee60dde-92d3-4640-8dda-bf6a488546d1"
+      },
+      {
+        "id": "b6bdbbf4-fe0b-4afc-8ce9-e02d0d519d41",
+        "label": "C",
+        "content": "It accesses static fields.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7ee60dde-92d3-4640-8dda-bf6a488546d1"
+      },
+      {
+        "id": "571df279-fc99-4f69-9406-1628aa9271c9",
+        "label": "D",
+        "content": "It acts as a return keyword.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7ee60dde-92d3-4640-8dda-bf6a488546d1"
+      }
+    ]
+  },
+  {
+    "id": "631c2555-3ff6-4232-9948-b48de56eb41c",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 26,
+    "content": "What is the output of the following code snippet?\n\n```\npublic class Test {\n    int x = 5;\n    int y = 2;\n```\n\n```\n    public static void main(String[] args) {\n        Test obj;\n        obj.x = 10;\n        obj.y = 20;\n        System.out.println(obj.x + obj.y);\n    }\n```\n\n}",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:52.655337+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "11e270ce-c5ef-4ad2-99a3-69ff997917a1",
+        "label": "A",
+        "content": "Compile error",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "631c2555-3ff6-4232-9948-b48de56eb41c"
+      },
+      {
+        "id": "0538fe49-0d6f-4ced-bf6f-4daaac1cb859",
+        "label": "B",
+        "content": "30",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "631c2555-3ff6-4232-9948-b48de56eb41c"
+      },
+      {
+        "id": "31d66753-3029-458c-9be4-3571d0dbcad2",
+        "label": "C",
+        "content": "90",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "631c2555-3ff6-4232-9948-b48de56eb41c"
+      },
+      {
+        "id": "8d866244-6ad8-4878-b9c5-e61e216d9aa9",
+        "label": "D",
+        "content": "15",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "631c2555-3ff6-4232-9948-b48de56eb41c"
+      }
+    ]
+  },
+  {
+    "id": "0beaaa3f-55dc-4eae-a594-9b1c73fc9a28",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 27,
+    "content": "What is the primary purpose of using a superclass and subclass relationship in Java?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:52.967992+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c905c115-13d2-4f5a-9644-c65fdba95f9d",
+        "label": "A",
+        "content": "To restrict access to certain methods or fields",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0beaaa3f-55dc-4eae-a594-9b1c73fc9a28"
+      },
+      {
+        "id": "7f863743-d6c9-41a2-8956-9f2f397367a2",
+        "label": "B",
+        "content": "To create multiple instances of a class",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0beaaa3f-55dc-4eae-a594-9b1c73fc9a28"
+      },
+      {
+        "id": "c3e343fa-5cb7-4ffe-bab4-4d0a23be25e8",
+        "label": "C",
+        "content": "To implement multiple inheritance.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0beaaa3f-55dc-4eae-a594-9b1c73fc9a28"
+      },
+      {
+        "id": "f77ef9f4-fa6d-4970-a257-d9067a8d6fa0",
+        "label": "D",
+        "content": "To achieve code reusability and facilitate polymorphism.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "0beaaa3f-55dc-4eae-a594-9b1c73fc9a28"
+      },
+      {
+        "id": "1da7f333-371f-427d-86bc-cf27152566ff",
+        "label": "E",
+        "content": "To enforce encapsulation.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0beaaa3f-55dc-4eae-a594-9b1c73fc9a28"
+      },
+      {
+        "id": "3ff3cea9-f42d-4246-8893-6e4cb47421c6",
+        "label": "F",
+        "content": "To establish a one-to-one mapping between classes.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0beaaa3f-55dc-4eae-a594-9b1c73fc9a28"
+      }
+    ]
+  },
+  {
+    "id": "904c4a2f-537d-4e8e-8dda-5a910307e909",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 28,
+    "content": "Which of the following statements related to the protected access modifier is true?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:53.265509+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "83b30ba8-5084-4669-94cb-9be084559cb0",
+        "label": "A",
+        "content": "It allows the outside package access via inheritance",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "904c4a2f-537d-4e8e-8dda-5a910307e909"
+      },
+      {
+        "id": "5a7c4e81-c131-4f48-a3ff-14d81fe09001",
+        "label": "B",
+        "content": "It does not allow within-package access",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "904c4a2f-537d-4e8e-8dda-5a910307e909"
+      },
+      {
+        "id": "5fb340bd-c4f5-4d9c-837d-3b14964babd4",
+        "label": "C",
+        "content": "The protected members must be initialized before use",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "904c4a2f-537d-4e8e-8dda-5a910307e909"
+      },
+      {
+        "id": "66a1b1f2-b5f0-4ac2-8c58-1f79c9d0da6e",
+        "label": "D",
+        "content": "All of the others",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "904c4a2f-537d-4e8e-8dda-5a910307e909"
+      }
+    ]
+  },
+  {
+    "id": "97730410-d943-4cd8-bbf5-e09fd9f08a07",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 29,
+    "content": "In order to compile a program named Hello.java, what do you type at the command line?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:53.569084+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "8bf82fc2-bea6-456e-9054-c346e306b54a",
+        "label": "A",
+        "content": "java Hello",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "97730410-d943-4cd8-bbf5-e09fd9f08a07"
+      },
+      {
+        "id": "0594ba8c-3b53-4978-8f82-8191553747e8",
+        "label": "B",
+        "content": "java Hello.java",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "97730410-d943-4cd8-bbf5-e09fd9f08a07"
+      },
+      {
+        "id": "1144ff5b-643e-4438-a91f-fdf4ba3374c4",
+        "label": "C",
+        "content": "javac Hello",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "97730410-d943-4cd8-bbf5-e09fd9f08a07"
+      },
+      {
+        "id": "563814a6-be7a-4659-9812-e1b491360a21",
+        "label": "D",
+        "content": "javac Hello.java",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "97730410-d943-4cd8-bbf5-e09fd9f08a07"
+      }
+    ]
+  },
+  {
+    "id": "e6809ae3-328d-437d-9748-c0c4b9bd05d6",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 30,
+    "content": "What is the purpose of a Java Virtual Machine (JVM)?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:53.872277+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "b637cf09-2b87-454d-862f-f736298c5b2f",
+        "label": "A",
+        "content": "It is used to interpret and execute Java bytecode",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e6809ae3-328d-437d-9748-c0c4b9bd05d6"
+      },
+      {
+        "id": "1e05b09c-c7c4-4bad-8cb1-4c118b998f6f",
+        "label": "B",
+        "content": "It is used to write the bytecode into the .class file",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e6809ae3-328d-437d-9748-c0c4b9bd05d6"
+      },
+      {
+        "id": "8ee0233a-678b-48f1-b9ef-93de499012d0",
+        "label": "C",
+        "content": "It is used to verify and improve performance the of Java programs",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e6809ae3-328d-437d-9748-c0c4b9bd05d6"
+      },
+      {
+        "id": "ff79d00e-1ec2-4293-a318-25d11ec9a71a",
+        "label": "D",
+        "content": "All of the others",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e6809ae3-328d-437d-9748-c0c4b9bd05d6"
+      }
+    ]
+  },
+  {
+    "id": "b8da2f6e-f6cf-47aa-b76d-883811841705",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 31,
+    "content": "Which of the following related to the comment in Java is false?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:54.172199+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "ba31c130-475f-4503-98b4-d8bd19d76033",
+        "label": "A",
+        "content": "/ comment",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "b8da2f6e-f6cf-47aa-b76d-883811841705"
+      },
+      {
+        "id": "7bc3403b-db7f-4d3d-9a03-32a71d4948cf",
+        "label": "B",
+        "content": "// comment",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b8da2f6e-f6cf-47aa-b76d-883811841705"
+      },
+      {
+        "id": "e40eae99-95e3-496d-84e1-2e2954d276a0",
+        "label": "C",
+        "content": "/* comment */",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b8da2f6e-f6cf-47aa-b76d-883811841705"
+      },
+      {
+        "id": "8871e04f-7f65-43fd-902a-6126801f3ba8",
+        "label": "D",
+        "content": "/** comment */",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b8da2f6e-f6cf-47aa-b76d-883811841705"
+      }
+    ]
+  },
+  {
+    "id": "40365fa6-8296-46c4-86a3-92c6680c8c06",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 32,
+    "content": "Given this declaration, what is the value of car immediately after declaration?\n\nCar car;",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:54.481467+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "41d37d65-7e25-4986-82b2-06736ea0b403",
+        "label": "A",
+        "content": "Undefined",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "40365fa6-8296-46c4-86a3-92c6680c8c06"
+      },
+      {
+        "id": "0936862e-c9ec-4aa0-ba82-58b54cb90a7f",
+        "label": "B",
+        "content": "A new Car object",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "40365fa6-8296-46c4-86a3-92c6680c8c06"
+      },
+      {
+        "id": "5f38f52e-84ac-4cc9-87a1-98daa826b6ad",
+        "label": "C",
+        "content": "0",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "40365fa6-8296-46c4-86a3-92c6680c8c06"
+      },
+      {
+        "id": "34fc48c7-d0ff-401d-87da-812d85e16285",
+        "label": "D",
+        "content": "null",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "40365fa6-8296-46c4-86a3-92c6680c8c06"
+      }
+    ]
+  },
+  {
+    "id": "e353f1c9-1414-4b5a-ade1-baa8e3a5e3ce",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 33,
+    "content": "Which of the following packages contains the Scanner class used to input data via keyboard?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:54.786323+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "eb461585-b2b4-4431-a0d5-c72dd29cbbd1",
+        "label": "A",
+        "content": "java.util",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e353f1c9-1414-4b5a-ade1-baa8e3a5e3ce"
+      },
+      {
+        "id": "4072b8e1-98e5-4485-b406-6a5c24db0f6e",
+        "label": "B",
+        "content": "java.net",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e353f1c9-1414-4b5a-ade1-baa8e3a5e3ce"
+      },
+      {
+        "id": "3b851410-c765-4be6-a0f2-552cb26853c9",
+        "label": "C",
+        "content": "java.io",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e353f1c9-1414-4b5a-ade1-baa8e3a5e3ce"
+      },
+      {
+        "id": "11997568-aa82-46d2-88cd-21e05b0188ed",
+        "label": "D",
+        "content": "java.awt",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e353f1c9-1414-4b5a-ade1-baa8e3a5e3ce"
+      }
+    ]
+  },
+  {
+    "id": "6c4c1841-18aa-48ef-82cc-6d0706b04b13",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 34,
+    "content": "Consider an abstract class Shape with an abstract method calculateArea(). If a concrete subclass Circle extends Shape and provides an implementation for calculateArea(), what happens when an object of the Circle class is created and calculateArea() is called?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:55.081352+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "6ad37ac8-a40d-42c8-98a0-c802cdc4d36d",
+        "label": "A",
+        "content": "The abstract method in the superclass is executed.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6c4c1841-18aa-48ef-82cc-6d0706b04b13"
+      },
+      {
+        "id": "7c4f6ac2-3cad-49ae-a25a-07095d82a4a5",
+        "label": "B",
+        "content": "The concrete method in the subclass is executed.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6c4c1841-18aa-48ef-82cc-6d0706b04b13"
+      },
+      {
+        "id": "0c54ed20-7448-4b21-8a9b-849492b94cad",
+        "label": "C",
+        "content": "The program will not compile.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6c4c1841-18aa-48ef-82cc-6d0706b04b13"
+      },
+      {
+        "id": "19f40069-f0cc-4061-817c-157afbc64b6d",
+        "label": "D",
+        "content": "An exception is thrown at runtime.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6c4c1841-18aa-48ef-82cc-6d0706b04b13"
+      },
+      {
+        "id": "66edcdc0-4619-452a-852e-8ccf64132fac",
+        "label": "E",
+        "content": "Both the abstract method in the superclass and the concrete method in the subclass are executed.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6c4c1841-18aa-48ef-82cc-6d0706b04b13"
+      },
+      {
+        "id": "151ee988-fd31-455d-ab24-2c69939e69f9",
+        "label": "F",
+        "content": "The result depends on whether the calculateArea() method is declared as static.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6c4c1841-18aa-48ef-82cc-6d0706b04b13"
+      }
+    ]
+  },
+  {
+    "id": "08767dfa-87de-497c-a6f5-2e4b90efd5b4",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 35,
+    "content": "Given this Wage interface:\n\n```\npublic interface Wage {\n    default void notice() {\n        System.out.println(\"Executing ...\");\n    }\n    void increase();\n}\n```\n\nGiven this Employee class:\n\n```\npublic class Employee implements Wage {\n    private String id;\n    private String name;\n    private int salary;\n```\n\n```\n    public Employee(String id, String name) {\n        this.id = id;\n        this.name = name;\n        this.salary = 1000;\n    }\n```\n\n```\n    @Override\n    public void notice() {\n        System.out.println(\"Employee salary computed!\");\n    }\n```\n\n```\n    @Override\n    public void increase() {\n        this.salary += 200;\n    }\n```\n\n```\n    public int getSalary() {\n        return salary;\n    }\n}\n```\n\nand this main method:\n\n```\npublic static void main(String[] args) {\n    Employee e = new Employee(\"EMP101\", \"John Doe\");\n    try {\n        e.increase();\n        System.out.println(\"Salary: \" + e.getSalary());\n}\ncatch (Exception ex) {\n        System.out.println(\"Cannot increase/decrease salary.\");\n}\nfinally {\n        e.notice();\n    }\n}\n```\n\nWhat will be printed on the screen after running the main method?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:55.379091+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "e940d11b-66c7-4ca4-b09c-3cd5a391779c",
+        "label": "A",
+        "content": "Salary: 1200 Employee salary computed!",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "08767dfa-87de-497c-a6f5-2e4b90efd5b4"
+      },
+      {
+        "id": "63a6db97-c170-4100-905b-1a7f18c55c70",
+        "label": "B",
+        "content": "Salary: 1200 Cannot increase/decrease salary.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08767dfa-87de-497c-a6f5-2e4b90efd5b4"
+      },
+      {
+        "id": "18f2cb89-83e7-457c-8d61-a87fa2841c11",
+        "label": "C",
+        "content": "Cannot increase/decrease salary.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08767dfa-87de-497c-a6f5-2e4b90efd5b4"
+      },
+      {
+        "id": "95efad99-2cff-49b9-b157-d10a71e20597",
+        "label": "D",
+        "content": "Salary: 1200 Cannot increase/decrease salary. Employee salary computed!",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08767dfa-87de-497c-a6f5-2e4b90efd5b4"
+      },
+      {
+        "id": "2f5fa1b2-440d-416d-b9da-3c6765bc6012",
+        "label": "E",
+        "content": "The code doesn't compile.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08767dfa-87de-497c-a6f5-2e4b90efd5b4"
+      }
+    ]
+  },
+  {
+    "id": "6f9074a0-f681-4ebe-ac33-095f72f3f676",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 36,
+    "content": "Given the following code snippet:\n\nint[] arr = new int[100];Which of the following statements is correct?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:55.689176+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "16488388-5e1f-4a8b-95dd-c3b05e09f634",
+        "label": "A",
+        "content": "The maximum number of elements of the arr is 100",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6f9074a0-f681-4ebe-ac33-095f72f3f676"
+      },
+      {
+        "id": "67b9df26-1c0b-4929-b7d2-df19f97c0542",
+        "label": "B",
+        "content": "The maximum index of the arr is 100",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6f9074a0-f681-4ebe-ac33-095f72f3f676"
+      },
+      {
+        "id": "d0c765ce-7544-453f-8d09-10785027c102",
+        "label": "C",
+        "content": "arr[100] = 100",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6f9074a0-f681-4ebe-ac33-095f72f3f676"
+      },
+      {
+        "id": "3fb984fd-89b4-4725-9bcf-d54af872524c",
+        "label": "D",
+        "content": "Each element in the arr will be 1 by default",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6f9074a0-f681-4ebe-ac33-095f72f3f676"
+      }
+    ]
+  },
+  {
+    "id": "e7170ce3-e03c-4ea0-bca8-930a558874d9",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 37,
+    "content": "Choose multiple correct answers.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:55.987925+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "ff481928-91d3-4f39-a7d5-c3d4dccb06f4",
+        "label": "A",
+        "content": "The default value of an uninitialized int variable in Java is 0",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e7170ce3-e03c-4ea0-bca8-930a558874d9"
+      },
+      {
+        "id": "54a3547f-d3dd-4e36-850a-5a26331db016",
+        "label": "B",
+        "content": "Constants can be changed during the execution of a program",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e7170ce3-e03c-4ea0-bca8-930a558874d9"
+      },
+      {
+        "id": "ab384dea-e308-46f8-8a26-16bed65106b9",
+        "label": "C",
+        "content": "Variables and constants are both used to store values in Java",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e7170ce3-e03c-4ea0-bca8-930a558874d9"
+      },
+      {
+        "id": "323c54b6-fe9d-45b4-9356-5eb0efc1d92b",
+        "label": "D",
+        "content": "Variables can be changed during the execution of a program",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e7170ce3-e03c-4ea0-bca8-930a558874d9"
+      }
+    ]
+  },
+  {
+    "id": "cc5dcca3-f884-4863-999c-b0607cf73fe5",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 38,
+    "content": "Given this Employee class:\n\n```\npublic class Employee {\n    private String id;\n    private String name;\n```\n\n```\n    public Employee(String id, String name) {\n        this.id = id;\n        this.name = name;\n    }\n    public String getName() {\n        return name;\n    }\n```\n\n}\nand this main method:\n\n```\npublic static void main(String[] args) {\n    Map<String, Employee> emp = new HashMap<>();\n    emp.put(\"A\", new Employee(\"A\", \"John Doe\"));\n    emp.put(\"B\", new Employee(\"B\", \"Mark David\"));\n    emp.put(\"A\", new Employee(\"A\", \"Rose Mary\"));\n    System.out.println(emp.get(\"A\").getName());\n}\n```\n\nWhat will be printed on the screen after running the main method?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:56.294336+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "ac203f6c-0ba5-4b85-9205-407e0d5df984",
+        "label": "A",
+        "content": "John Doe",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc5dcca3-f884-4863-999c-b0607cf73fe5"
+      },
+      {
+        "id": "d1c1e8e4-efb2-499e-a3ea-597d9dc21e15",
+        "label": "B",
+        "content": "Rose Mary",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "cc5dcca3-f884-4863-999c-b0607cf73fe5"
+      },
+      {
+        "id": "4ea61c33-55ff-4055-bf62-13e0c65996b7",
+        "label": "C",
+        "content": "John DoeRose Mary",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc5dcca3-f884-4863-999c-b0607cf73fe5"
+      },
+      {
+        "id": "43a4d4c9-b656-4919-8f74-09d06068e2d3",
+        "label": "D",
+        "content": "A runtime exception is thrown",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc5dcca3-f884-4863-999c-b0607cf73fe5"
+      }
+    ]
+  },
+  {
+    "id": "07afebce-fe95-4c9a-9b7a-f57fe4bc7846",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 39,
+    "content": "What is the output of the following code snippet?\n\n```\npublic class Person {\n    protected String id = \"New Id\";\n```\n\n```\n    public static void main(String[] args) {\n        Person p = new Person();\n        p.id = \"FPTU\";\n        System.out.println(p.id);\n    }\n```\n\n}",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:56.597068+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "5debaecc-0241-42c7-9742-03baa7ff4fed",
+        "label": "A",
+        "content": "FPTU",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "07afebce-fe95-4c9a-9b7a-f57fe4bc7846"
+      },
+      {
+        "id": "2da9529d-f66a-4fba-bf53-65ccf3fef6ad",
+        "label": "B",
+        "content": "null",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07afebce-fe95-4c9a-9b7a-f57fe4bc7846"
+      },
+      {
+        "id": "4daa18a9-c2cf-421f-9cb5-81c2aafb6be8",
+        "label": "C",
+        "content": "New Id",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07afebce-fe95-4c9a-9b7a-f57fe4bc7846"
+      },
+      {
+        "id": "efa59088-fb9d-40a7-a82c-f4770f15c144",
+        "label": "D",
+        "content": "Runtime error",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07afebce-fe95-4c9a-9b7a-f57fe4bc7846"
+      }
+    ]
+  },
+  {
+    "id": "0774e835-190b-4394-818c-6011c972aab6",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 40,
+    "content": "Which of the following interfaces is the root interface of the Java Collections Framework?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:56.89656+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "01205d6d-21ff-4d75-841a-e5d3a9045bbe",
+        "label": "A",
+        "content": "Collection",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "0774e835-190b-4394-818c-6011c972aab6"
+      },
+      {
+        "id": "cd10132f-02a9-45ac-83f3-89f49e690a7e",
+        "label": "B",
+        "content": "Map",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0774e835-190b-4394-818c-6011c972aab6"
+      },
+      {
+        "id": "92a4b377-ca3e-44a8-b614-1e4bd215034f",
+        "label": "C",
+        "content": "List",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0774e835-190b-4394-818c-6011c972aab6"
+      },
+      {
+        "id": "ab2e98e8-af78-4ffd-92aa-754813e75a56",
+        "label": "D",
+        "content": "Set",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0774e835-190b-4394-818c-6011c972aab6"
+      }
+    ]
+  },
+  {
+    "id": "9cf2c65d-7b29-401c-b378-eabfc73b4905",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 41,
+    "content": "What is the correct way to call an instance method fly() on an object bird?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:57.209005+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "e6aeb9eb-6f07-461f-96d3-b0eb506d4299",
+        "label": "A",
+        "content": "bird->fly();",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "9cf2c65d-7b29-401c-b378-eabfc73b4905"
+      },
+      {
+        "id": "1f367afb-c4f4-4386-8e37-f88e0be149f9",
+        "label": "B",
+        "content": "bird.fly();",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "9cf2c65d-7b29-401c-b378-eabfc73b4905"
+      },
+      {
+        "id": "ee01b9a9-366d-4f7b-b430-33a8b5d61484",
+        "label": "C",
+        "content": "fly.bird();",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "9cf2c65d-7b29-401c-b378-eabfc73b4905"
+      },
+      {
+        "id": "ac20a229-52a0-4d54-aa1a-f71168e5bcc4",
+        "label": "D",
+        "content": "bird:fly();",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "9cf2c65d-7b29-401c-b378-eabfc73b4905"
+      }
+    ]
+  },
+  {
+    "id": "30965e65-ad1c-4cae-96f6-6f2b80f180ad",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 42,
+    "content": "What keyword is used in Java to declare a constant value that cannot be changed?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:57.500388+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "35b7c32a-1d15-46bb-bcca-200abce5be4b",
+        "label": "A",
+        "content": "constant",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "30965e65-ad1c-4cae-96f6-6f2b80f180ad"
+      },
+      {
+        "id": "f7ab6e95-722f-4944-afef-86bad79f3fb4",
+        "label": "B",
+        "content": "const",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "30965e65-ad1c-4cae-96f6-6f2b80f180ad"
+      },
+      {
+        "id": "4c9f6823-55a4-44e1-878e-181f076e7202",
+        "label": "C",
+        "content": "final",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "30965e65-ad1c-4cae-96f6-6f2b80f180ad"
+      },
+      {
+        "id": "dcab814e-224f-4a42-bb3c-04b387612040",
+        "label": "D",
+        "content": "static",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "30965e65-ad1c-4cae-96f6-6f2b80f180ad"
+      }
+    ]
+  },
+  {
+    "id": "0ac1fe03-d73a-4574-9334-7033fd7880ef",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 43,
+    "content": "Which of the following methods of File class is used to check a file already exists?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:57.810833+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "d91a08e6-1b1c-4933-83bd-cfa77ec69e4a",
+        "label": "A",
+        "content": "exists()",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "0ac1fe03-d73a-4574-9334-7033fd7880ef"
+      },
+      {
+        "id": "bee54a90-f970-4dad-9133-2f268cef36a1",
+        "label": "B",
+        "content": "isExists()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0ac1fe03-d73a-4574-9334-7033fd7880ef"
+      },
+      {
+        "id": "87ada99b-31a5-414b-a15f-1dd36c44fd61",
+        "label": "C",
+        "content": "checkFile()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0ac1fe03-d73a-4574-9334-7033fd7880ef"
+      },
+      {
+        "id": "342ce2ce-9257-4f1b-a9cb-04de86ae1201",
+        "label": "D",
+        "content": "fileExists()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0ac1fe03-d73a-4574-9334-7033fd7880ef"
+      }
+    ]
+  },
+  {
+    "id": "28abc335-1fce-4012-a31b-b0b72e3472d4",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 44,
+    "content": "Which is a valid keyword in Java?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:58.107228+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "1e8d42f7-3104-4bb4-ae3e-fb69859617fa",
+        "label": "A",
+        "content": "interface",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "28abc335-1fce-4012-a31b-b0b72e3472d4"
+      },
+      {
+        "id": "e886cb31-d455-45c2-a32b-b47d7151334d",
+        "label": "B",
+        "content": "include",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "28abc335-1fce-4012-a31b-b0b72e3472d4"
+      },
+      {
+        "id": "2c178b00-a70f-4f68-89d1-47ae2056d13d",
+        "label": "C",
+        "content": "Float",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "28abc335-1fce-4012-a31b-b0b72e3472d4"
+      },
+      {
+        "id": "cbf7ee56-ced7-473f-969a-d17c44f368ec",
+        "label": "D",
+        "content": "Integer",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "28abc335-1fce-4012-a31b-b0b72e3472d4"
+      }
+    ]
+  },
+  {
+    "id": "faf8187a-3aa3-4608-9cbc-f7ab9f282288",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 45,
+    "content": "Which method is used to check if an element is present in an ArrayList?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:58.41258+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "643e879b-d489-4bfe-b07d-64343ed381a6",
+        "label": "A",
+        "content": "contains()",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "faf8187a-3aa3-4608-9cbc-f7ab9f282288"
+      },
+      {
+        "id": "8894c1d5-43c6-4ee0-9328-629c94409c17",
+        "label": "B",
+        "content": "exists()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "faf8187a-3aa3-4608-9cbc-f7ab9f282288"
+      },
+      {
+        "id": "d515f9f2-1808-4798-b691-667308ebd472",
+        "label": "C",
+        "content": "includes()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "faf8187a-3aa3-4608-9cbc-f7ab9f282288"
+      },
+      {
+        "id": "f2f120a5-5228-421c-b4d1-256ed694e5da",
+        "label": "D",
+        "content": "has()",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "faf8187a-3aa3-4608-9cbc-f7ab9f282288"
+      }
+    ]
+  },
+  {
+    "id": "c66d3274-7894-469a-a275-cb6e63a21696",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 46,
+    "content": "Which of the following classes is used to iterate through lines in a text file when reading line by line?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:58.696878+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "8643a98b-22f5-4045-86b6-3f16f1bf8854",
+        "label": "A",
+        "content": "BufferedReader",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "c66d3274-7894-469a-a275-cb6e63a21696"
+      },
+      {
+        "id": "9bd75211-3f6c-4292-950f-8f8f0429c3bc",
+        "label": "B",
+        "content": "FileReader",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c66d3274-7894-469a-a275-cb6e63a21696"
+      },
+      {
+        "id": "78fea232-05a0-4c16-aa5d-5152d04ec1fb",
+        "label": "C",
+        "content": "FileInputStream",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c66d3274-7894-469a-a275-cb6e63a21696"
+      },
+      {
+        "id": "2f125538-c9c6-489d-b178-12e7485600c3",
+        "label": "D",
+        "content": "InputStreamReader",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c66d3274-7894-469a-a275-cb6e63a21696"
+      }
+    ]
+  },
+  {
+    "id": "6c198aa6-595f-49f8-9670-8d98460b0d4b",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 47,
+    "content": "What is the output of the following code snippet?\n\n```\nint sum = 0;\nfor (int i = 0; i <= 10; i += 2) {\n    sum += (i % 2 == 0 ? 1 : -1);\n}\n```\n\nSystem.out.println(sum);",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:58.999565+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "1cf361b1-1c08-422b-ab81-5442d433cfab",
+        "label": "A",
+        "content": "6",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6c198aa6-595f-49f8-9670-8d98460b0d4b"
+      },
+      {
+        "id": "27b1a0af-ae11-44df-a6bb-510f48ea4378",
+        "label": "B",
+        "content": "2",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6c198aa6-595f-49f8-9670-8d98460b0d4b"
+      },
+      {
+        "id": "730d1dcf-2db8-4dde-9f2c-8b62f5a66708",
+        "label": "C",
+        "content": "The program will raise an exception.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6c198aa6-595f-49f8-9670-8d98460b0d4b"
+      },
+      {
+        "id": "fb729252-5e28-4df5-a36b-00498e35e548",
+        "label": "D",
+        "content": "3",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6c198aa6-595f-49f8-9670-8d98460b0d4b"
+      }
+    ]
+  },
+  {
+    "id": "2447b6e9-e645-4571-9ec3-4c0bb2c8fbb7",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 48,
+    "content": "Consider the code:\n\n```\ninterface A {\n    void methodA();\n}\n```\n\n```\ninterface B {\n    void methodB();\n}\n```\n\n```\nclass C implements A, B {\n    public void methodA() {\n        System.out.print(\"A\");\n    }\n```\n\n```\n    public static void main(String[] args) {\n        C obj = new C();\n        obj.methodA();\n        obj.methodB();\n    }\n```\n\n}\nWhat will the output be?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:59.303815+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "b1668e34-739b-408b-a7a6-81f1a4fb477c",
+        "label": "A",
+        "content": "Compilation error",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "2447b6e9-e645-4571-9ec3-4c0bb2c8fbb7"
+      },
+      {
+        "id": "caa104ba-3879-4fc3-b5a0-0b8b4089bbda",
+        "label": "B",
+        "content": "Prints A then throws a runtime exception.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2447b6e9-e645-4571-9ec3-4c0bb2c8fbb7"
+      },
+      {
+        "id": "21c37077-f7ab-4494-8220-12b09913f35d",
+        "label": "C",
+        "content": "Prints AB",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2447b6e9-e645-4571-9ec3-4c0bb2c8fbb7"
+      },
+      {
+        "id": "d29215d7-fd9a-431c-83d3-aeb37a7a604f",
+        "label": "D",
+        "content": "Prints A only",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2447b6e9-e645-4571-9ec3-4c0bb2c8fbb7"
+      }
+    ]
+  },
+  {
+    "id": "c0d99e83-cd1e-45ed-8fb7-a82a27ca7e4c",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 49,
+    "content": "What happens when you try to assign an array to another array in Java?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:59.60429+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "6e6b35e3-0ba7-4a72-ac31-1bebf7e8f0bd",
+        "label": "A",
+        "content": "Both arrays reference to the same memory location.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "c0d99e83-cd1e-45ed-8fb7-a82a27ca7e4c"
+      },
+      {
+        "id": "ddb1f38f-b8fc-422e-8457-6177f90556d7",
+        "label": "B",
+        "content": "A new copy of the array is created.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0d99e83-cd1e-45ed-8fb7-a82a27ca7e4c"
+      },
+      {
+        "id": "115dba7d-e83c-485c-b6c7-da970d8d9a5a",
+        "label": "C",
+        "content": "It results in a compilation error.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0d99e83-cd1e-45ed-8fb7-a82a27ca7e4c"
+      },
+      {
+        "id": "e07e8ddd-28f7-49e5-b347-7e95c2dbd737",
+        "label": "D",
+        "content": "Java does not allow array assignment",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0d99e83-cd1e-45ed-8fb7-a82a27ca7e4c"
+      }
+    ]
+  },
+  {
+    "id": "1d286abd-9803-4068-9f67-840fbab84e2c",
+    "exam_id": "1837effd-a202-4ccd-859b-427d60aca48d",
+    "order_num": 50,
+    "content": "What will be printed by the following code?\n\n```\nclass Dog {\n    String name;\n    Dog(String n) {\n        name = n;\n    }\n    void bark() {\n        System.out.println(name + \" says Woof!\");\n    }\n}\n```\n\n```\npublic class Main {\n    public static void main(String[] args) {\n        Dog d = new Dog(\"Buddy\");\n        d.bark();\n    }\n}\n```",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-06T07:10:59.910697+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "4cd8dbbf-467f-4205-b0fa-e2f0643c306f",
+        "label": "A",
+        "content": "Buddy Woof!",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1d286abd-9803-4068-9f67-840fbab84e2c"
+      },
+      {
+        "id": "aa3c6c36-4ee2-44ae-b2e5-dd90cbffdcee",
+        "label": "B",
+        "content": "Buddy says Woof!",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "1d286abd-9803-4068-9f67-840fbab84e2c"
+      },
+      {
+        "id": "592f123d-8d87-4dcc-a75d-683908d677e5",
+        "label": "C",
+        "content": "Woof!",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1d286abd-9803-4068-9f67-840fbab84e2c"
+      },
+      {
+        "id": "1f37b05c-4d04-460d-bd8d-c014a940b259",
+        "label": "D",
+        "content": "Compile error",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1d286abd-9803-4068-9f67-840fbab84e2c"
+      }
+    ]
+  }
+]

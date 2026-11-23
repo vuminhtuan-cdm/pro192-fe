@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Luyện Thi PRO192 - Ôn Tập & Thi Thử OOP Java (Object-Oriented Programming FE)</title>
+
+  <!-- KaTeX for math & technical notations -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="if(window.renderCurrentMath) window.renderCurrentMath();"></script>
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css?v=20261123_01">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="header-container">
+      <div class="brand">
+        <div class="brand-icon">☕</div>
+        <div class="brand-title">
+          <h1>PRO192 - HỆ THỐNG ÔN THI & THI THỬ OOP JAVA (FE)</h1>
+          <p>Dữ liệu đề thi chuẩn 100% · 10 Đề chính thức + Đề tổng hợp · Lập trình Hướng đối tượng Java</p>
+        </div>
+      </div>
+      <div class="header-stats">
+        <div class="badge-tag">Môn: <strong>PRO192 (OOP with Java)</strong></div>
+        <div class="badge-tag">Bộ đề: <strong id="headerExamCount">10 Đề FE</strong></div>
+        <div class="badge-tag">Trạng thái: <strong>Sẵn sàng</strong></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Tabs chọn đề thi -->
+  <div class="exam-tabs-container">
+    <div class="exam-tabs" id="examTabs">
+      <!-- Sẽ được render bởi app.js -->
+    </div>
+  </div>
+
+  <!-- Thanh chọn chế độ Ôn tập / Thi thử Luyện tập / Thi thử Chuẩn FE -->
+  <div class="mode-bar-container">
+    <div class="mode-switcher">
+      <button class="mode-btn active" id="btnModeStudy" onclick="setMode('study')">
+        <span>📖</span> Chế độ Ôn Tập (Xem Đáp Án)
+      </button>
+      <button class="mode-btn" id="btnModePractice" onclick="setMode('practice')">
+        <span>⚡</span> Thi Thử Luyện Tập (Báo Đúng/Sai Ngay)
+      </button>
+      <button class="mode-btn" id="btnModeExam" onclick="setMode('exam')">
+        <span>⏱️</span> Chế độ Thi Thử Chuẩn FE (Tính Giờ & Nộp Bài)
+      </button>
+    </div>
+    <div style="font-size: 0.85rem; color: var(--text-muted);">
+      💡 Mẹo: Bấm nút <strong>"🔀 Tráo câu hỏi"</strong> để đảo thứ tự học/thi ngẫu nhiên, hoặc bấm vào ảnh đề thi để phóng to rõ nét!
+    </div>
+  </div>
+
+  <!-- Vùng nội dung chính -->
+  <main class="app-main" id="appContent">
+    <!-- Nội dung câu hỏi và sidebar sẽ được app.js render tại đây -->
+  </main>
+
+  <!-- Modal thông báo kết quả thi thử -->
+  <div class="modal-overlay" id="resultModal">
+    <div class="modal-card">
+      <div class="modal-icon" id="resIcon">🏆</div>
+      <h2 id="resTitle" style="font-size: 1.3rem; margin-bottom: 8px;">KẾT QUẢ THI THỬ</h2>
+      <div class="score-display" id="resScore">0.0 / 10</div>
+      <div class="score-sub" id="resSub">Làm đúng 0 / 50 câu hỏi</div>
+
+      <div class="result-breakdown">
+        <div class="rb-item">
+          <strong style="color: var(--success);" id="resCountCorrect">0</strong>
+          <span>Câu đúng</span>
+        </div>
+        <div class="rb-item">
+          <strong style="color: var(--danger);" id="resCountWrong">0</strong>
+          <span>Câu sai</span>
+        </div>
+        <div class="rb-item">
+          <strong style="color: var(--primary);" id="resPercent">0%</strong>
+          <span>Tỷ lệ đạt</span>
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        <button class="btn-submit-exam" onclick="closeModalAndReview()">
+          👁️ Xem lại chi tiết từng câu
+        </button>
+        <button class="btn-secondary" onclick="restartExam()">
+          🔀 Tráo đề & Thi lại
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Lightbox xem ảnh kích thước lớn -->
+  <div class="image-lightbox" id="imageLightbox" onclick="closeLightbox(event)">
+    <div class="image-lightbox-close" onclick="closeLightbox()">&times;</div>
+    <img id="lightboxImg" src="" alt="Hình ảnh phóng to">
+  </div>
+
+  <!-- Scripts -->
+  <script src="exams.js?v=20261123_01"></script>
+  <script src="app.js?v=20261123_01"></script>
+</body>
+</html>
