@@ -42,6 +42,14 @@ exam_configs = [
         "shortTitle": "Đề 4 (SP26 B5-FE Ảnh)",
         "type": "image",
         "filename": "PRO192_SP26_B5_FE.json"
+    },
+    {
+        "id": "exam_5",
+        "code": "PRO192_SP26_FE",
+        "title": "Đề 5: Đề Thi FE - PRO192 - SP26 - FE (Đề Thi Ảnh)",
+        "shortTitle": "Đề 5 (SP26 FE Ảnh)",
+        "type": "image",
+        "filename": "PRO192_SP26_FE.json"
     }
 ]
 
